@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Web Rádio Vem Comigo Deus</title>
+  <link rel="stylesheet" href="/style.css?v=8">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <img class="main-logo" src="/assets/logo-radio.png" alt="Web Rádio Vem Comigo Deus">
+    <div>
+      <h1>Web Rádio Vem Comigo Deus</h1>
+      <p>Pregações • Orações • Louvores que Edificam</p>
+    </div>
+  </div>
+  <span class="live">● AO VIVO 24H</span>
+  <a class="admin-link" href="/admin.html">⚙ Painel 3.0</a>
+</header>
+
+<main>
+  <section class="hero">
+    <div>
+      <span class="eyebrow">AGORA NA RÁDIO</span>
+      <h2 id="show">Carregando programação…</h2>
+      <p id="host"></p>
+      <p id="clock"></p>
+    </div>
+    <button id="power" class="power">▶ LIGAR RÁDIO</button>
+  </section>
+
+  <section class="player">
+    <div class="cover">♫</div>
+    <div class="meta">
+      <small id="kind">SINAL AO VIVO</small>
+      <strong id="nowTitle">Web Rádio Vem Comigo Deus</strong>
+      <span id="statusText">Clique em “Ligar Rádio” para começar.</span>
+    </div>
+    <div class="controls">
+      <button id="prev">⏮</button>
+      <button id="play">▶</button>
+      <button id="next">⏭</button>
+    </div>
+    <audio id="audio" preload="none"></audio>
+  </section>
+
+  <section>
+    <h3>Programação diária</h3>
+    <div class="schedule">
+      <article><b>09:00</b><h4>Bom Dia Deus</h4><p>Pastor Luiz Felipe</p></article>
+      <article><b>12:30</b><h4>Encontro com Deus</h4><p>Missionária Ingrid Laura</p></article>
+      <article><b>18:00</b><h4>Tarde da Benção</h4><p>Pastor Bernardo Henrique</p></article>
+      <article><b>19:00</b><h4>Culto No Seu Lar</h4><p>Pastor Heitor Cruz • até 21:00</p></article>
+    </div>
+  </section>
+</main>
+
+<footer>Web Rádio Vem Comigo Deus • Rádio automática 24 horas</footer>
+<script src="/app.js?v=8"></script>
+</body>
+</html>

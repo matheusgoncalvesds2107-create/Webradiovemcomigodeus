@@ -1,0 +1,55 @@
+{
+  "showName": "Bom Dia Deus",
+  "hostKey": "luiz",
+  "host": {
+    "nome": "Pastor Luiz Felipe",
+    "voice": "Puck",
+    "style": "alegre, energético, otimista e comunicativo; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Descanso para o coração",
+    "texto": "Mateus 11:28"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Bom Dia Deus. Eu sou Pastor Luiz Felipe. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "song",
+      "label": "O Fogo Vai Descer",
+      "songId": "o-fogo-vai-descer"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: Descanso para o coração, com base em Mateus 11:28. Mesmo quando você não consegue enxergar a saída, continue firme. Deus trabalha também nos períodos de silêncio. Ore, faça o que está ao seu alcance e caminhe com fé um passo de cada vez.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "song",
+      "label": "Deus Vai na Frente",
+      "songId": "deus-vai-na-frente"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus, visita cada pessoa que nos acompanha agora. Fortalece quem está cansado, consola quem está chorando, dá sabedoria a quem precisa decidir e coloca paz dentro de cada lar. Em nome de Jesus, amém.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: você não precisa ter todas as respostas hoje. Dê o próximo passo com confiança e coloque diante de Deus aquilo que você ainda não consegue resolver.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Bom Dia Deus, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "luiz"
+    }
+  ]
+}

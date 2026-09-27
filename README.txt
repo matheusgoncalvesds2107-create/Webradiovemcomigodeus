@@ -1,0 +1,1 @@
+Use estes arquivos para restaurar o player antigo. Não apague server.js. Configure PUBLIC_STREAM_URL=http://sapircast.caster.fm:11743/I3Pqo no Render.

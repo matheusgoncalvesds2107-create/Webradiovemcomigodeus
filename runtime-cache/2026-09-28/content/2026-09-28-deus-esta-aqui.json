@@ -1,0 +1,55 @@
+{
+  "showName": "Deus Está Aqui",
+  "hostKey": "fernando",
+  "host": {
+    "nome": "Pastor Fernando Baptista",
+    "voice": "Fenrir",
+    "style": "pentecostal forte, vibrante, enérgico e fervoroso; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "A paz em meio à tempestade",
+    "texto": "Marcos 4:35-41"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Deus Está Aqui. Eu sou Pastor Fernando Baptista. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: A paz em meio à tempestade, com base em Marcos 4:35-41. A Palavra nos convida a trocar a ansiedade pela oração. Entregue a Deus aquilo que pesa no coração e permita que a esperança seja renovada hoje.",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "song",
+      "label": "Festa no Céu",
+      "songId": "festa-no-ceu"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus, visita cada pessoa que nos acompanha agora. Fortalece quem está cansado, consola quem está chorando, dá sabedoria a quem precisa decidir e coloca paz dentro de cada lar. Em nome de Jesus, amém.",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: você não precisa ter todas as respostas hoje. Dê o próximo passo com confiança e coloque diante de Deus aquilo que você ainda não consegue resolver.",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Deus Está Aqui, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "fernando"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+CORREÇÃO FINAL — NÃO VOLTAR AO INÍCIO
+
+A correção anterior ainda deixava o player montar a sequência no celular.
+Esta versão muda isso:
+
+- o servidor decide o que está tocando AGORA;
+- quando abrir/reabrir a rádio, o celular pergunta ao servidor qual faixa/bloco está no ar;
+- entra no ponto aproximado daquela faixa;
+- clicar novamente no botão da rádio não reinicia a programação;
+- mantém PWA e painel separado.
+
+PELO CELULAR:
+1. Envie patch-radio-ao-vivo-real.mjs para a raiz do GitHub.
+2. Substitua package.json.
+3. O arquivo antigo patch-radio-tempo-real.mjs pode ficar no GitHub; este package NÃO o executa.
+4. Render -> Manual Deploy -> Deploy latest commit.
+5. Espere Live.
+
+NO LOG:
+Servidor: linha do tempo única da rádio aplicada.
+Player: entra no ponto atual e não reinicia ao clicar.
+PWA público aplicado. Painel 3.0 removido da tela pública.
+
+Depois feche completamente o site/PWA e abra de novo.

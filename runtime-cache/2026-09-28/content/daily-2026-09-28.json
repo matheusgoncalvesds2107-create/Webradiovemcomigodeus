@@ -7,6 +7,13 @@
       "voiceKey": "ingrid",
       "audio": "/opt/render/project/src/cache/tts/133f0835065a0f9c1ed0bc7eb896ad77f70e16a4.wav",
       "createdAt": "2026-09-28T04:20:12.189Z"
+    },
+    "bom-dia-deus": {
+      "nome": "Bom Dia Deus",
+      "host": "Pastor Luiz Felipe",
+      "voiceKey": "luiz",
+      "audio": "/opt/render/project/src/cache/tts/418db11ec8ce59e3e551f3f304960edbce4e5dd2.wav",
+      "createdAt": "2026-09-28T04:44:08.798Z"
     }
   }
 }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/bg">
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+<ImageView android:layout_width="88dp" android:layout_height="88dp" android:layout_gravity="center_horizontal" android:src="@mipmap/ic_launcher"/>
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="PAINEL WEB RÁDIO" android:textColor="@color/white" android:textStyle="bold" android:textSize="24sp" android:gravity="center"/>
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Vem Comigo Deus • Transmissor" android:textColor="@color/gold" android:textStyle="bold" android:textSize="18sp" android:gravity="center" android:layout_marginBottom="14dp"/>
+
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:background="@drawable/card" android:padding="14dp">
+<TextView android:id="@+id/program" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Carregando programação..." android:textColor="@color/white" android:textStyle="bold" android:textSize="20sp"/>
+<TextView android:id="@+id/hostName" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/muted" android:textSize="14sp"/>
+<TextView android:id="@+id/radioStatus" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="TRANSMISSOR PARADO" android:textColor="@color/gold" android:textStyle="bold" android:layout_marginTop="8dp"/>
+</LinearLayout>
+
+<EditText android:id="@+id/token" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Senha do Painel 3.0" android:inputType="textPassword" android:textColor="@color/white" android:textColorHint="@color/muted" android:layout_marginTop="14dp"/>
+<EditText android:id="@+id/casterPass" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Senha SOURCE do Caster" android:inputType="textPassword" android:textColor="@color/white" android:textColorHint="@color/muted"/>
+
+<Button android:id="@+id/save" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="SALVAR SENHAS NO CELULAR" android:background="@drawable/gold" android:textColor="#211A07" android:textStyle="bold"/>
+<Button android:id="@+id/prepare" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="PREPARAR PROGRAMAÇÃO DE HOJE" android:background="@drawable/card" android:textColor="@color/white" android:textStyle="bold" android:layout_marginTop="14dp"/>
+<Button android:id="@+id/start" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="▶ INICIAR TRANSMISSÃO" android:background="@drawable/green" android:textColor="@color/white" android:textStyle="bold" android:textSize="18sp" android:layout_marginTop="10dp"/>
+<Button android:id="@+id/stop" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="■ PARAR TRANSMISSÃO" android:background="@drawable/card" android:textColor="@color/white" android:textStyle="bold" android:layout_marginTop="8dp"/>
+<TextView android:id="@+id/log" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="O painel controla o motor da rádio no Render." android:textColor="@color/muted" android:textSize="13sp" android:padding="12dp"/>
+</LinearLayout></ScrollView>

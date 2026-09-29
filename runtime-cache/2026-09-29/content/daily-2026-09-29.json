@@ -6,14 +6,14 @@
       "host": "Pastor Luiz Felipe",
       "voiceKey": "luiz",
       "audio": "/opt/render/project/src/cache/tts/310a8891f68556dc228e5c43a298b5f73b6f5c52.wav",
-      "createdAt": "2026-09-29T04:44:32.873Z"
+      "createdAt": "2026-09-29T04:45:41.543Z"
     },
-    "encontro-com-deus": {
-      "nome": "Encontro com Deus",
-      "host": "Missionária Ingrid Laura",
-      "voiceKey": "ingrid",
-      "audio": "/opt/render/project/src/cache/tts/2f72e4237270bb88539f2ec53162a110775cf09b.wav",
-      "createdAt": "2026-09-29T04:45:53.239Z"
+    "tarde-da-bencao": {
+      "nome": "Tarde da Benção",
+      "host": "Pastor Bernardo Henrique",
+      "voiceKey": "bernardo",
+      "audio": "/opt/render/project/src/cache/tts/d5a17051b5feceb87124f8410fe09db35b93cf63.wav",
+      "createdAt": "2026-09-29T04:47:01.022Z"
     }
   }
 }

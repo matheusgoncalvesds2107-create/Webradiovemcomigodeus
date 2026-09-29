@@ -28,6 +28,13 @@
       "voiceKey": "fernando",
       "audio": "/opt/render/project/src/cache/tts/f49a4c723944f0183c8adbb90dca96cebeafbb47.wav",
       "createdAt": "2026-09-28T04:47:28.593Z"
+    },
+    "culto-no-seu-lar": {
+      "nome": "Culto No Seu Lar",
+      "host": "Pastor Heitor Cruz",
+      "voiceKey": "heitor",
+      "audio": "/opt/render/project/src/cache/tts/84dd1c7a29ff7459a6b836125302ce21d1f44fb8.wav",
+      "createdAt": "2026-09-29T00:52:50.944Z"
     }
   }
 }

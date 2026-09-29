@@ -1,9 +1,9 @@
 {
-  "id": "tarde-da-bencao",
+  "id": "culto-no-seu-lar",
   "date": "2026-09-28",
-  "nome": "Tarde da Benção",
-  "host": "Pastor Bernardo Henrique",
-  "startedAt": "2026-09-28T06:59:38.360Z",
-  "endsAt": 1790582378360,
-  "durationSeconds": 3600
+  "nome": "Culto No Seu Lar",
+  "host": "Pastor Heitor Cruz",
+  "startedAt": "2026-09-29T00:53:41.801Z",
+  "endsAt": 1790650421801,
+  "durationSeconds": 7200
 }

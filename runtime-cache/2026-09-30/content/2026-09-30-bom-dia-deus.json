@@ -1,0 +1,55 @@
+{
+  "showName": "Bom Dia Deus",
+  "hostKey": "luiz",
+  "host": {
+    "nome": "Pastor Luiz Felipe",
+    "voice": "Puck",
+    "style": "alegre, energético, otimista e comunicativo; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Esperança para recomeçar",
+    "texto": "Lamentações 3:22-23"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Bom Dia Deus. Eu sou Pastor Luiz Felipe. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "song",
+      "label": "O Fogo Vai Descer",
+      "songId": "o-fogo-vai-descer"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: Esperança para recomeçar, com base em Lamentações 3:22-23. A Palavra nos convida a trocar a ansiedade pela oração. Entregue a Deus aquilo que pesa no coração e permita que a esperança seja renovada hoje.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Pai, entregamos este momento em Tuas mãos. Guarda nossas famílias, renova nossa fé e ensina-nos a caminhar com amor, humildade e esperança. Que a Tua paz permaneça conosco. Amém.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: o dia pode ter sido difícil, mas ele não define o seu amanhã. Continue orando, continue fazendo o bem e não abandone a esperança.",
+      "voiceKey": "luiz"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Bom Dia Deus, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "luiz"
+    }
+  ]
+}

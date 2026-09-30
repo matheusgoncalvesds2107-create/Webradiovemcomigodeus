@@ -7,6 +7,13 @@
       "voiceKey": "luiz",
       "audio": "/opt/render/project/src/cache/tts/2e178de6e4332279679d4a57de474f48c6989863.wav",
       "createdAt": "2026-09-30T05:23:39.776Z"
+    },
+    "encontro-com-deus": {
+      "nome": "Encontro com Deus",
+      "host": "Missionária Ingrid Laura",
+      "voiceKey": "ingrid",
+      "audio": "/opt/render/project/src/cache/tts/3c69977151de204ed151f64a891e340a8627ed92.wav",
+      "createdAt": "2026-09-30T05:27:55.882Z"
     }
   }
 }

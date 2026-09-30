@@ -14,6 +14,13 @@
       "voiceKey": "ingrid",
       "audio": "/opt/render/project/src/cache/tts/3c69977151de204ed151f64a891e340a8627ed92.wav",
       "createdAt": "2026-09-30T05:27:55.882Z"
+    },
+    "tarde-da-bencao": {
+      "nome": "Tarde da Benção",
+      "host": "Pastor Bernardo Henrique",
+      "voiceKey": "bernardo",
+      "audio": "/opt/render/project/src/cache/tts/195d29da2a114686b98ce4ac05fec78698c5119d.wav",
+      "createdAt": "2026-09-30T05:35:47.986Z"
     }
   }
 }

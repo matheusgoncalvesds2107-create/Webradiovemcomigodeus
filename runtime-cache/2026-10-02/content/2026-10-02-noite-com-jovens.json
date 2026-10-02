@@ -1,0 +1,55 @@
+{
+  "showName": "Noite com Jovens",
+  "hostKey": "manuela",
+  "host": {
+    "nome": "Pastora Manuela Rodrigues",
+    "voice": "Pulcherrima",
+    "style": "pentecostal intenso, expressivo, alegre e cheio de fé; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Não desista no meio da luta",
+    "texto": "Isaías 40:31"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Noite com Jovens. Eu sou Pastora Manuela Rodrigues. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "song",
+      "label": "Deus Vai na Frente",
+      "songId": "deus-vai-na-frente"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: Não desista no meio da luta, com base em Isaías 40:31. Mesmo quando você não consegue enxergar a saída, continue firme. Deus trabalha também nos períodos de silêncio. Ore, faça o que está ao seu alcance e caminhe com fé um passo de cada vez.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus, visita cada pessoa que nos acompanha agora. Fortalece quem está cansado, consola quem está chorando, dá sabedoria a quem precisa decidir e coloca paz dentro de cada lar. Em nome de Jesus, amém.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: o dia pode ter sido difícil, mas ele não define o seu amanhã. Continue orando, continue fazendo o bem e não abandone a esperança.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Noite com Jovens, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "manuela"
+    }
+  ]
+}

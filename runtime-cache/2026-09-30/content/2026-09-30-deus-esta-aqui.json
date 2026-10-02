@@ -1,0 +1,55 @@
+{
+  "showName": "Deus Está Aqui",
+  "hostKey": "fernando",
+  "host": {
+    "nome": "Pastor Fernando Baptista",
+    "voice": "Fenrir",
+    "style": "pentecostal forte, vibrante, enérgico e fervoroso; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Não desista no meio da luta",
+    "texto": "Isaías 40:31"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Deus Está Aqui. Eu sou Pastor Fernando Baptista. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "song",
+      "label": "Deus Vai na Frente",
+      "songId": "deus-vai-na-frente"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "A paz do Senhor Jesus, povo abençoado da Web Rádio Vem Comigo Deus! Aqui é o Pastor Fernando Baptista, e este é o seu programa Deus Está Aqui! Abra o seu coração agora, porque o Espírito Santo tem um decreto de renovo extraordinário para a sua vida! Eu não sei qual é a tempestade que tentou parar os seus passos esta semana. Talvez você olhou para o tamanho da peleja, olhou para as circunstâncias ao redor e pensou: 'Eu não aguento mais, vou jogar a toalha no meio do caminho'. Mas eu venho hoje como profeta de Deus na sua história para declarar com toda autoridade espiritual: Não desista no meio da luta! Guarde no seu espírito o que está escrito no livro do profeta Isaías, capítulo 40, versículo 31: 'Mas os que esperam no Senhor renovam as suas forças, sobem com asas como águias, correm e não se cansam, caminham e não se fatigam.'\n\nPrimeiro ponto: O cansaço humano atinge o corpo, mas o socorro de Deus alcança a alma. Todo ser humano chega ao seu limite físico e emocional. O jovem tropeça, o forte vacila, mas o Criador dos confins da terra não dorme e não se cansa! A sua energia natural pode ter chegado ao fim, mas é exatamente onde termina o limite do homem que começa a manifestação milagrosa de Jeová! Quando você reconhece a sua pequenez e diz 'Senhor, eu não consigo mais sozinho', o Todo-Poderoso se levanta do trono e se torna a sua fortaleza inabalável.\n\nSegundo ponto: Esperar no Senhor não é passividade, é confiança militante. A palavra 'esperar' nas Escrituras não significa cruzar os braços e lamentar a sorte; significa ancorar a fé no caráter do Deus vivo! Quem espera em Deus não se desespera com o relatório médico adverso, não perde a paz diante da crise financeira e não aceita a sentença que o inferno tentou lavrar contra a sua família. Esperar no Senhor é dobrar os joelhos no chão, erguer as mãos e adorar no meio do vale, sabendo que a peleja pertence ao Senhor dos Exércitos e que Ele nunca perdeu uma batalha sequer!\n\nTerceiro ponto: Deus está te concedendo asas de águia para voar acima dessa tempestade. Preste atenção: a águia não foge da tormenta. Quando os ventos violentos chegam, ela abre as suas asas e aproveita a força da ventania para subir mais alto, até romper a escuridão e planar sob a luz do sol. O Senhor Deus não vai apenas te tirar dessa fornalha; Ele vai te fazer subir a níveis mais elevados de autoridade e maturidade espiritual! Essa provação não veio para decretar o seu funeral espiritual, veio para ser o palco da revelação do poder de Deus na sua casa!\n\nAplicação para a sua vida hoje: Pare imediatamente de olhar para trás e feche os seus ouvidos para as vozes da derrota que dizem que tudo acabou. O seu casamento tem jeito, a sua saúde tem jeito, o seu filho tem livramento e a sua história terá um final de dupla honra! O Deus que abriu o mar Vermelho e derrubou as muralhas de Jericó continua operando maravilhas no presente século.\n\nConclusão: Levante agora a sua cabeça! Sacuda a poeira da tristeza, repreenda todo sentimento de frustração e receba neste instante uma transfusão do sangue do Cordeiro, um choque de ânimo e poder pentecostal! A linha de chegada está logo ali e o seu milagre já foi assinado pelo Todo-Poderoso. Você não vai recuar, você vai marchar, vai romper e vai testemunhar a vitória! Em nome do Senhor Jesus!",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "song",
+      "label": "Minha Casa Pertence a Deus",
+      "songId": "minha-casa-pertence-a-deus"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus todo-poderoso, Deus de Abraão, de Isaque e de Jacó! Nós entramos diante do Teu trono de graça pelo sangue precioso de Jesus Cristo, clamando por este ouvinte da Web Rádio Vem Comigo Deus que chegou ao extremo do cansaço. Ó Deus Santo, repreende agora todo espírito de desânimo, quebra as correntes da angústia e dissipa toda nuvem de depressão que tentava sufocar a esperança deste coração! Pai, sopra agora o Teu vento vivificador dentro desta casa, deste hospital, deste automóvel ou deste trabalho. Renova o vigor espiritual, a saúde física e a paz mental de Teu filho e de Tua filha. Onde faltam forças humanas, manifesta o Teu poder sem limites, fazendo o caído se levantar como guerreiro aprovado. Declaramos que nenhuma arma forjada contra esta vida prosperará, pois quem espera em Ti recebe asas de águia e avança em triunfo! Nós Te louvamos, Te agradecemos e selamos esta vitória, em nome de Jesus! Amém e glória a Deus!",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Meu irmão, minha irmã, guarde esta verdade profunda no seu coração: a sua luta atual não é o seu ponto final, é apenas a transição para o seu maior testemunho! O diabo pensou que você ia tombar no meio do caminho, mas o Senhor te sustenta com a destra da Sua justiça para voar alto. Não recue nem um centímetro, pois Aquele que prometeu é absolutamente fiel para cumprir cada promessa feita à sua casa! Continue sintonizado na Web Rádio Vem Comigo Deus, no programa Deus Está Aqui. Aqui é o Pastor Fernando Baptista, abençoando a sua vida e profetizando um tempo de renovo e glória. Receba a vitória em Cristo Jesus!",
+      "voiceKey": "fernando"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Deus Está Aqui, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "fernando"
+    }
+  ]
+}

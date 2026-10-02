@@ -1,0 +1,55 @@
+{
+  "showName": "Noite com Jovens",
+  "hostKey": "manuela",
+  "host": {
+    "nome": "Pastora Manuela Rodrigues",
+    "voice": "Pulcherrima",
+    "style": "pentecostal intenso, expressivo, alegre e cheio de fé; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "A fé que continua caminhando",
+    "texto": "Hebreus 11:1"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Noite com Jovens. Eu sou Pastora Manuela Rodrigues. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "song",
+      "label": "Minha Casa Pertence a Deus",
+      "songId": "minha-casa-pertence-a-deus"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: A fé que continua caminhando, com base em Hebreus 11:1. A Palavra nos convida a trocar a ansiedade pela oração. Entregue a Deus aquilo que pesa no coração e permita que a esperança seja renovada hoje.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Pai, entregamos este momento em Tuas mãos. Guarda nossas famílias, renova nossa fé e ensina-nos a caminhar com amor, humildade e esperança. Que a Tua paz permaneça conosco. Amém.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: você não precisa ter todas as respostas hoje. Dê o próximo passo com confiança e coloque diante de Deus aquilo que você ainda não consegue resolver.",
+      "voiceKey": "manuela"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Noite com Jovens, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "manuela"
+    }
+  ]
+}

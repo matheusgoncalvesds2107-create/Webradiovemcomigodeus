@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-02",
+  "programs": {
+    "bom-dia-deus": {
+      "nome": "Bom Dia Deus",
+      "host": "Pastor Luiz Felipe",
+      "voiceKey": "luiz",
+      "audio": "/opt/render/project/src/cache/tts/481997cac1aac582175a636d363c4c25cd6e30c2.wav",
+      "createdAt": "2026-10-02T05:18:39.515Z"
+    },
+    "tarde-da-bencao": {
+      "nome": "Tarde da Benção",
+      "host": "Pastor Bernardo Henrique",
+      "voiceKey": "bernardo",
+      "audio": "/opt/render/project/src/cache/tts/4c067a8912a883325fd3ce7ff7009c4754afd4e2.wav",
+      "createdAt": "2026-10-02T05:19:04.820Z"
+    },
+    "encontro-com-deus": {
+      "nome": "Encontro com Deus",
+      "host": "Missionária Ingrid Laura",
+      "voiceKey": "ingrid",
+      "audio": "/opt/render/project/src/cache/tts/faff52bb97a0fb0a8b6f84e8bd4c568aec65ec50.wav",
+      "createdAt": "2026-10-02T05:19:51.316Z"
+    },
+    "deus-esta-aqui": {
+      "nome": "Deus Está Aqui",
+      "host": "Pastor Fernando Baptista",
+      "voiceKey": "fernando",
+      "audio": "/opt/render/project/src/cache/tts/8987dce7032993f3b4d42a753c6b9fb7de94258d.wav",
+      "createdAt": "2026-10-02T05:21:18.344Z"
+    },
+    "culto-no-seu-lar": {
+      "nome": "Culto No Seu Lar",
+      "host": "Pastor Heitor Cruz",
+      "voiceKey": "heitor",
+      "audio": "/opt/render/project/src/cache/tts/9fab130ead89e31a22881e51bfc0696a6b7aa74e.wav",
+      "createdAt": "2026-10-02T05:25:57.005Z"
+    },
+    "noite-com-jovens": {
+      "nome": "Noite com Jovens",
+      "host": "Pastora Manuela Rodrigues",
+      "voiceKey": "manuela",
+      "audio": "/opt/render/project/src/cache/tts/124838a30561fb9797c7273ffa9a3735e5649d44.wav",
+      "createdAt": "2026-10-02T05:25:57.008Z"
+    }
+  }
+}

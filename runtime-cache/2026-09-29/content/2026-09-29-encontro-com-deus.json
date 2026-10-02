@@ -1,0 +1,55 @@
+{
+  "showName": "Encontro com Deus",
+  "hostKey": "ingrid",
+  "host": {
+    "nome": "Missionária Ingrid Laura",
+    "voice": "Sulafat",
+    "style": "acolhedora, serena, carinhosa e próxima; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "A paz em meio à tempestade",
+    "texto": "Marcos 4:35-41"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Encontro com Deus. Eu sou Missionária Ingrid Laura. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: A paz em meio à tempestade, com base em Marcos 4:35-41. A Palavra nos convida a trocar a ansiedade pela oração. Entregue a Deus aquilo que pesa no coração e permita que a esperança seja renovada hoje.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "song",
+      "label": "Minha Casa Pertence a Deus",
+      "songId": "minha-casa-pertence-a-deus"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus, visita cada pessoa que nos acompanha agora. Fortalece quem está cansado, consola quem está chorando, dá sabedoria a quem precisa decidir e coloca paz dentro de cada lar. Em nome de Jesus, amém.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: o dia pode ter sido difícil, mas ele não define o seu amanhã. Continue orando, continue fazendo o bem e não abandone a esperança.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Encontro com Deus, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "ingrid"
+    }
+  ]
+}

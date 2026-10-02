@@ -1,0 +1,55 @@
+{
+  "showName": "Tarde da Benção",
+  "hostKey": "bernardo",
+  "host": {
+    "nome": "Pastor Bernardo Henrique",
+    "voice": "Achird",
+    "style": "amigável, motivador, encorajador e firme; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Descanso para o coração",
+    "texto": "Mateus 11:28"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Tarde da Benção. Eu sou Pastor Bernardo Henrique. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "song",
+      "label": "Festa no Céu",
+      "songId": "festa-no-ceu"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: Descanso para o coração, com base em Mateus 11:28. Não permita que uma dificuldade de hoje apague tudo o que Deus já fez em sua caminhada. Há momentos em que a fé é simplesmente continuar obedecendo e confiando.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "song",
+      "label": "Deus Vai na Frente",
+      "songId": "deus-vai-na-frente"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Pai, entregamos este momento em Tuas mãos. Guarda nossas famílias, renova nossa fé e ensina-nos a caminhar com amor, humildade e esperança. Que a Tua paz permaneça conosco. Amém.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: o dia pode ter sido difícil, mas ele não define o seu amanhã. Continue orando, continue fazendo o bem e não abandone a esperança.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Tarde da Benção, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "bernardo"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "showName": "Culto No Seu Lar",
+  "hostKey": "heitor",
+  "host": {
+    "nome": "Pastor Heitor Cruz",
+    "voice": "Charon",
+    "style": "solene, claro, profundo e pastoral; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "A fé que continua caminhando",
+    "texto": "Hebreus 11:1"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Culto No Seu Lar. Eu sou Pastor Heitor Cruz. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "song",
+      "label": "Minha Casa Pertence a Deus",
+      "songId": "minha-casa-pertence-a-deus"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: A fé que continua caminhando, com base em Hebreus 11:1. Não permita que uma dificuldade de hoje apague tudo o que Deus já fez em sua caminhada. Há momentos em que a fé é simplesmente continuar obedecendo e confiando.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "song",
+      "label": "O Fogo Vai Descer",
+      "songId": "o-fogo-vai-descer"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Pai, entregamos este momento em Tuas mãos. Guarda nossas famílias, renova nossa fé e ensina-nos a caminhar com amor, humildade e esperança. Que a Tua paz permaneça conosco. Amém.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: o dia pode ter sido difícil, mas ele não define o seu amanhã. Continue orando, continue fazendo o bem e não abandone a esperança.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Culto No Seu Lar, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "heitor"
+    }
+  ]
+}

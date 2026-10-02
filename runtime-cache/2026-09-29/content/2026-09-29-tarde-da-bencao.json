@@ -1,0 +1,55 @@
+{
+  "showName": "Tarde da Benção",
+  "hostKey": "bernardo",
+  "host": {
+    "nome": "Pastor Bernardo Henrique",
+    "voice": "Achird",
+    "style": "amigável, motivador, encorajador e firme; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "A fé que continua caminhando",
+    "texto": "Hebreus 11:1"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Tarde da Benção. Eu sou Pastor Bernardo Henrique. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "song",
+      "label": "Festa no Céu",
+      "songId": "festa-no-ceu"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: A fé que continua caminhando, com base em Hebreus 11:1. Mesmo quando você não consegue enxergar a saída, continue firme. Deus trabalha também nos períodos de silêncio. Ore, faça o que está ao seu alcance e caminhe com fé um passo de cada vez.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "song",
+      "label": "O Fogo Vai Descer",
+      "songId": "o-fogo-vai-descer"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus, visita cada pessoa que nos acompanha agora. Fortalece quem está cansado, consola quem está chorando, dá sabedoria a quem precisa decidir e coloca paz dentro de cada lar. Em nome de Jesus, amém.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: você não precisa ter todas as respostas hoje. Dê o próximo passo com confiança e coloque diante de Deus aquilo que você ainda não consegue resolver.",
+      "voiceKey": "bernardo"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Tarde da Benção, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "bernardo"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-30",
+  "programs": {
+    "bom-dia-deus": {
+      "nome": "Bom Dia Deus",
+      "host": "Pastor Luiz Felipe",
+      "voiceKey": "luiz",
+      "audio": "/opt/render/project/src/cache/tts/2e178de6e4332279679d4a57de474f48c6989863.wav",
+      "createdAt": "2026-09-30T05:23:39.776Z"
+    },
+    "encontro-com-deus": {
+      "nome": "Encontro com Deus",
+      "host": "Missionária Ingrid Laura",
+      "voiceKey": "ingrid",
+      "audio": "/opt/render/project/src/cache/tts/3c69977151de204ed151f64a891e340a8627ed92.wav",
+      "createdAt": "2026-09-30T05:27:55.882Z"
+    },
+    "tarde-da-bencao": {
+      "nome": "Tarde da Benção",
+      "host": "Pastor Bernardo Henrique",
+      "voiceKey": "bernardo",
+      "audio": "/opt/render/project/src/cache/tts/195d29da2a114686b98ce4ac05fec78698c5119d.wav",
+      "createdAt": "2026-09-30T05:35:47.986Z"
+    },
+    "culto-no-seu-lar": {
+      "nome": "Culto No Seu Lar",
+      "host": "Pastor Heitor Cruz",
+      "voiceKey": "heitor",
+      "audio": "/opt/render/project/src/cache/tts/bd0d3cae74c3a9a086b4b74037934933e7cf7a19.wav",
+      "createdAt": "2026-09-30T05:36:52.676Z"
+    },
+    "noite-com-jovens": {
+      "nome": "Noite com Jovens",
+      "host": "Pastora Manuela Rodrigues",
+      "voiceKey": "manuela",
+      "audio": "/opt/render/project/src/cache/tts/351bc3541fd779ec89288783b2c50518fe9e0109.wav",
+      "createdAt": "2026-09-30T05:42:20.782Z"
+    }
+  }
+}

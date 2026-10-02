@@ -1,0 +1,55 @@
+{
+  "showName": "Culto No Seu Lar",
+  "hostKey": "heitor",
+  "host": {
+    "nome": "Pastor Heitor Cruz",
+    "voice": "Charon",
+    "style": "solene, claro, profundo e pastoral; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Deus abre caminhos",
+    "texto": "Êxodo 14:13-16"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Culto No Seu Lar. Eu sou Pastor Heitor Cruz. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: Deus abre caminhos, com base em Êxodo 14:13-16. Mesmo quando você não consegue enxergar a saída, continue firme. Deus trabalha também nos períodos de silêncio. Ore, faça o que está ao seu alcance e caminhe com fé um passo de cada vez.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "song",
+      "label": "O Fogo Vai Descer",
+      "songId": "o-fogo-vai-descer"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Pai, entregamos este momento em Tuas mãos. Guarda nossas famílias, renova nossa fé e ensina-nos a caminhar com amor, humildade e esperança. Que a Tua paz permaneça conosco. Amém.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: você não precisa ter todas as respostas hoje. Dê o próximo passo com confiança e coloque diante de Deus aquilo que você ainda não consegue resolver.",
+      "voiceKey": "heitor"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Culto No Seu Lar, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "heitor"
+    }
+  ]
+}

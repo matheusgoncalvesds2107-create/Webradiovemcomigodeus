@@ -6,7 +6,14 @@
       "host": "Pastor Luiz Felipe",
       "voiceKey": "luiz",
       "audio": "/opt/render/project/src/cache/tts/481997cac1aac582175a636d363c4c25cd6e30c2.wav",
-      "createdAt": "2026-10-02T05:19:00.320Z"
+      "createdAt": "2026-10-02T05:18:39.515Z"
+    },
+    "tarde-da-bencao": {
+      "nome": "Tarde da Benção",
+      "host": "Pastor Bernardo Henrique",
+      "voiceKey": "bernardo",
+      "audio": "/opt/render/project/src/cache/tts/4c067a8912a883325fd3ce7ff7009c4754afd4e2.wav",
+      "createdAt": "2026-10-02T05:19:04.820Z"
     }
   }
 }

@@ -35,6 +35,13 @@
       "voiceKey": "heitor",
       "audio": "/opt/render/project/src/cache/tts/9fab130ead89e31a22881e51bfc0696a6b7aa74e.wav",
       "createdAt": "2026-10-02T05:25:57.005Z"
+    },
+    "noite-com-jovens": {
+      "nome": "Noite com Jovens",
+      "host": "Pastora Manuela Rodrigues",
+      "voiceKey": "manuela",
+      "audio": "/opt/render/project/src/cache/tts/124838a30561fb9797c7273ffa9a3735e5649d44.wav",
+      "createdAt": "2026-10-02T05:25:57.008Z"
     }
   }
 }

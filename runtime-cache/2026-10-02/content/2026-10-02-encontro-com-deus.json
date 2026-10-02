@@ -1,0 +1,55 @@
+{
+  "showName": "Encontro com Deus",
+  "hostKey": "ingrid",
+  "host": {
+    "nome": "Missionária Ingrid Laura",
+    "voice": "Sulafat",
+    "style": "acolhedora, serena, carinhosa e próxima; português brasileiro natural"
+  },
+  "tema": {
+    "tema": "Deus cuida da sua casa",
+    "texto": "Josué 24:15"
+  },
+  "queue": [
+    {
+      "type": "speech",
+      "label": "Abertura",
+      "text": "A paz do Senhor! Você está na Web Rádio Vem Comigo Deus. Está começando Encontro com Deus. Eu sou Missionária Ingrid Laura. Teremos louvores, Palavra de Deus, oração e, no final, uma mensagem de fé. Fique conosco.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "song",
+      "label": "O Fogo Vai Descer",
+      "songId": "o-fogo-vai-descer"
+    },
+    {
+      "type": "speech",
+      "label": "Palavra",
+      "text": "Nossa palavra de hoje tem como tema: Deus cuida da sua casa, com base em Josué 24:15. Não permita que uma dificuldade de hoje apague tudo o que Deus já fez em sua caminhada. Há momentos em que a fé é simplesmente continuar obedecendo e confiando.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "song",
+      "label": "Só Quero Tua Presença",
+      "songId": "so-quero-tua-presenca"
+    },
+    {
+      "type": "speech",
+      "label": "Oração",
+      "text": "Senhor Deus, visita cada pessoa que nos acompanha agora. Fortalece quem está cansado, consola quem está chorando, dá sabedoria a quem precisa decidir e coloca paz dentro de cada lar. Em nome de Jesus, amém.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "speech",
+      "label": "Mensagem de Fé",
+      "text": "Mensagem de fé: você não precisa ter todas as respostas hoje. Dê o próximo passo com confiança e coloque diante de Deus aquilo que você ainda não consegue resolver.",
+      "voiceKey": "ingrid"
+    },
+    {
+      "type": "speech",
+      "label": "Encerramento",
+      "text": "Você ouviu Encontro com Deus, na Web Rádio Vem Comigo Deus. Que Deus abençoe você e sua família. Continue conosco.",
+      "voiceKey": "ingrid"
+    }
+  ]
+}

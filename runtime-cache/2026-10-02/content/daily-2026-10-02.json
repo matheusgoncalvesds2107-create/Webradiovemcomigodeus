@@ -21,6 +21,13 @@
       "voiceKey": "ingrid",
       "audio": "/opt/render/project/src/cache/tts/faff52bb97a0fb0a8b6f84e8bd4c568aec65ec50.wav",
       "createdAt": "2026-10-02T05:19:51.316Z"
+    },
+    "deus-esta-aqui": {
+      "nome": "Deus Está Aqui",
+      "host": "Pastor Fernando Baptista",
+      "voiceKey": "fernando",
+      "audio": "/opt/render/project/src/cache/tts/8987dce7032993f3b4d42a753c6b9fb7de94258d.wav",
+      "createdAt": "2026-10-02T05:21:18.344Z"
     }
   }
 }

@@ -1,1442 +1,362 @@
 [
   {
-    "id": "1790553224627-0-f81737.mp3",
+    "id": "1790919619061-0-f489c9.mp3",
     "name": "01_chao_de_promessa.mp3",
     "bytes": 2061418,
-    "addedAt": "2026-09-27T23:53:48.933Z"
+    "addedAt": "2026-10-02T05:40:19.715Z"
   },
   {
-    "id": "1790553228933-1-78eb40.mp3",
-    "name": "01_deus_bate_no_compasso.mp3",
-    "bytes": 2043237,
-    "addedAt": "2026-09-27T23:53:53.125Z"
-  },
-  {
-    "id": "1790553233125-2-60ffd4.mp3",
+    "id": "1790919619714-1-97b31c.mp3",
     "name": "01_deus_esta_comigo.mp3",
     "bytes": 2094333,
-    "addedAt": "2026-09-27T23:53:57.981Z"
+    "addedAt": "2026-10-02T05:40:19.916Z"
   },
   {
-    "id": "1790553237981-3-59f3a0.mp3",
-    "name": "01_seresta_da_graca.mp3",
-    "bytes": 2103110,
-    "addedAt": "2026-09-27T23:54:02.162Z"
-  },
-  {
-    "id": "1790553242162-4-ad7148.mp3",
+    "id": "1790919619915-2-c703ba.mp3",
     "name": "02_deus_cuida_de_nos.mp3",
     "bytes": 2005307,
-    "addedAt": "2026-09-27T23:54:06.257Z"
+    "addedAt": "2026-10-02T05:40:20.017Z"
   },
   {
-    "id": "1790553246256-5-6b754a.mp3",
-    "name": "02_deus_me_acolhe.mp3",
-    "bytes": 444857,
-    "addedAt": "2026-09-27T23:54:07.185Z"
-  },
-  {
-    "id": "1790553247185-6-504961.mp3",
+    "id": "1790919620016-3-718c48.mp3",
     "name": "02_nao_vou_temer.mp3",
     "bytes": 2044491,
-    "addedAt": "2026-09-27T23:54:11.154Z"
+    "addedAt": "2026-10-02T05:40:20.119Z"
   },
   {
-    "id": "1790553251154-7-f9ea74.mp3",
-    "name": "02_vem_dancar_com_fe.mp3",
-    "bytes": 2074270,
-    "addedAt": "2026-09-27T23:54:15.096Z"
-  },
-  {
-    "id": "1790553255096-8-3e99c3.mp3",
+    "id": "1790919620117-4-3e145c.mp3",
     "name": "03_noite_de_oracao.mp3",
     "bytes": 2133830,
-    "addedAt": "2026-09-27T23:54:18.872Z"
+    "addedAt": "2026-10-02T05:40:20.414Z"
   },
   {
-    "id": "1790553258871-9-be2549.mp3",
-    "name": "03_quando_a_fe_floresce.mp3",
-    "bytes": 2105931,
-    "addedAt": "2026-09-27T23:54:22.178Z"
-  },
-  {
-    "id": "1790553262177-10-444a90.mp3",
+    "id": "1790919620218-5-18f08b.mp3",
     "name": "03_sanfona_da_graca.mp3",
     "bytes": 1350783,
-    "addedAt": "2026-09-27T23:54:23.829Z"
+    "addedAt": "2026-10-02T05:40:20.815Z"
   },
   {
-    "id": "1790553263828-11-29f7b4.mp3",
-    "name": "03_tua_presenca_me_guia.mp3",
-    "bytes": 2128501,
-    "addedAt": "2026-09-27T23:54:25.915Z"
-  },
-  {
-    "id": "1790553265914-12-c33b53.mp3",
+    "id": "1790919620814-6-52a7e8.mp3",
     "name": "04_amor_que_nao_falha.mp3",
     "bytes": 2064553,
-    "addedAt": "2026-09-27T23:54:27.856Z"
+    "addedAt": "2026-10-02T05:40:20.915Z"
   },
   {
-    "id": "1790553267855-13-cc5f9e.mp3",
-    "name": "04_casa_firmada.mp3",
-    "bytes": 2047939,
-    "addedAt": "2026-09-27T23:54:29.825Z"
-  },
-  {
-    "id": "1790553269823-14-e51967.mp3",
+    "id": "1790919620914-7-7d8d06.mp3",
     "name": "04_no_passinho_da_fe.mp3",
     "bytes": 2055149,
-    "addedAt": "2026-09-27T23:54:31.755Z"
+    "addedAt": "2026-10-02T05:40:20.920Z"
   },
   {
-    "id": "1790553271755-15-e9b085.mp3",
-    "name": "04_quando_a_noite_chegar.mp3",
-    "bytes": 2062045,
-    "addedAt": "2026-09-27T23:54:33.769Z"
-  },
-  {
-    "id": "1790553273768-16-d0a815.mp3",
+    "id": "1790919620919-8-4bc028.mp3",
     "name": "05_deus_na_estrada.mp3",
     "bytes": 2141039,
-    "addedAt": "2026-09-27T23:54:35.788Z"
+    "addedAt": "2026-10-02T05:40:21.019Z"
   },
   {
-    "id": "1790553275788-17-768e06.mp3",
-    "name": "05_meu_refugio.mp3",
-    "bytes": 2146995,
-    "addedAt": "2026-09-27T23:54:37.875Z"
-  },
-  {
-    "id": "1790553277875-18-551487.mp3",
+    "id": "1790919621018-9-cb3820.mp3",
     "name": "05_no_silencio_tua_voz.mp3",
     "bytes": 2148563,
-    "addedAt": "2026-09-27T23:54:39.941Z"
+    "addedAt": "2026-10-02T05:40:21.316Z"
   },
   {
-    "id": "1790553279940-19-1c501b.mp3",
-    "name": "05_quando_deus_fala.mp3",
-    "bytes": 2025056,
-    "addedAt": "2026-09-27T23:54:41.862Z"
-  },
-  {
-    "id": "1790553281859-20-0be23b.mp3",
+    "id": "1790919621214-10-cc32db.mp3",
     "name": "06_caminho_de_luz.mp3",
     "bytes": 2144174,
-    "addedAt": "2026-09-27T23:54:44.321Z"
+    "addedAt": "2026-10-02T05:40:21.419Z"
   },
   {
-    "id": "1790553284321-21-ca14db.mp3",
-    "name": "06_chuva_de_bencao.mp3",
-    "bytes": 2108752,
-    "addedAt": "2026-09-27T23:54:46.385Z"
-  },
-  {
-    "id": "1790553286384-22-234462.mp3",
+    "id": "1790919621417-11-b96c21.mp3",
     "name": "06_graca_no_caminho.mp3",
     "bytes": 2087436,
-    "addedAt": "2026-09-27T23:54:48.364Z"
+    "addedAt": "2026-10-02T05:40:21.517Z"
   },
   {
-    "id": "1790553288363-23-b3a232.mp3",
-    "name": "06_passo_a_passo.mp3",
-    "bytes": 2113454,
-    "addedAt": "2026-09-27T23:54:50.414Z"
-  },
-  {
-    "id": "1790553290413-24-fb027e.mp3",
+    "id": "1790919621516-12-4390f8.mp3",
     "name": "07_meu_louvor_tem_sanfona.mp3",
     "bytes": 2088377,
-    "addedAt": "2026-09-27T23:54:52.392Z"
+    "addedAt": "2026-10-02T05:40:21.617Z"
   },
   {
-    "id": "1790553292392-25-2fe0f1.mp3",
-    "name": "07_minha_casa_em_tuas_maos.mp3",
-    "bytes": 2057343,
-    "addedAt": "2026-09-27T23:54:54.322Z"
-  },
-  {
-    "id": "1790553294321-26-3a240d.mp3",
+    "id": "1790919621616-13-025ef1.mp3",
     "name": "07_o_senhor_me_sustenta.mp3",
     "bytes": 2048566,
-    "addedAt": "2026-09-27T23:54:56.710Z"
+    "addedAt": "2026-10-02T05:40:21.716Z"
   },
   {
-    "id": "1790553296710-27-f37be5.mp3",
-    "name": "07_valeu_a_pena_esperar.mp3",
-    "bytes": 2080540,
-    "addedAt": "2026-09-27T23:54:58.751Z"
-  },
-  {
-    "id": "1790553298750-28-eee947.mp3",
+    "id": "1790919621715-14-47ee99.mp3",
     "name": "08_danca_da_vitoria.mp3",
     "bytes": 2140413,
-    "addedAt": "2026-09-27T23:55:00.756Z"
+    "addedAt": "2026-10-02T05:40:22.216Z"
   },
   {
-    "id": "1790553300755-29-f0e677.mp3",
-    "name": "08_familia_abencoada.mp3",
-    "bytes": 2126306,
-    "addedAt": "2026-09-27T23:55:02.821Z"
-  },
-  {
-    "id": "1790553302821-30-7bfb49.mp3",
+    "id": "1790919622215-15-096421.mp3",
     "name": "08_gratidao_na_janela.mp3",
     "bytes": 2112827,
-    "addedAt": "2026-09-27T23:55:04.822Z"
+    "addedAt": "2026-10-02T05:40:22.220Z"
   },
   {
-    "id": "1790553304821-31-05a9c6.mp3",
-    "name": "08_milagre_na_mesa.mp3",
-    "bytes": 2141353,
-    "addedAt": "2026-09-27T23:55:07.306Z"
-  },
-  {
-    "id": "1790553307306-32-2b73a1.mp3",
+    "id": "1790919622219-16-3d4b0a.mp3",
     "name": "09_comigo_no_deserto.mp3",
     "bytes": 2065493,
-    "addedAt": "2026-09-27T23:55:09.316Z"
+    "addedAt": "2026-10-02T05:40:22.315Z"
   },
   {
-    "id": "1790553309316-33-1cf033.mp3",
-    "name": "09_deus_de_recomecos.mp3",
-    "bytes": 2124112,
-    "addedAt": "2026-09-27T23:55:11.396Z"
-  },
-  {
-    "id": "1790553311395-34-fc76ba.mp3",
+    "id": "1790919622314-17-95127b.mp3",
     "name": "09_no_deserto_deus_chegou.mp3",
     "bytes": 2097467,
-    "addedAt": "2026-09-27T23:55:13.384Z"
+    "addedAt": "2026-10-02T05:40:22.320Z"
   },
   {
-    "id": "1790553313384-35-3e4e4a.mp3",
-    "name": "10_ceu_sobre_nos.mp3",
-    "bytes": 2058284,
-    "addedAt": "2026-09-27T23:55:15.315Z"
-  },
-  {
-    "id": "1790553315313-36-dd6e33.mp3",
+    "id": "1790919622319-18-69b2cf.mp3",
     "name": "10_forca_para_vencer.mp3",
     "bytes": 2077719,
-    "addedAt": "2026-09-27T23:55:17.362Z"
+    "addedAt": "2026-10-02T05:40:22.416Z"
   },
   {
-    "id": "1790553317362-37-5289ac.mp3",
-    "name": "10_paz_no_coracao.mp3",
-    "bytes": 2007188,
-    "addedAt": "2026-09-27T23:55:19.265Z"
-  },
-  {
-    "id": "1790553319264-38-6427f5.mp3",
+    "id": "1790919622415-19-cce8d7.mp3",
     "name": "10_tua_mao_me_conduz.mp3",
     "bytes": 2084615,
-    "addedAt": "2026-09-27T23:55:21.254Z"
+    "addedAt": "2026-10-02T05:40:22.516Z"
   },
   {
-    "id": "1790553321254-39-46042b.mp3",
-    "name": "11_alegria_de_servir.mp3",
-    "bytes": 2051074,
-    "addedAt": "2026-09-27T23:55:23.287Z"
-  },
-  {
-    "id": "1790553323286-40-f01009.mp3",
+    "id": "1790919622516-20-602eb5.mp3",
     "name": "11_alegria_no_sabado.mp3",
     "bytes": 2171759,
-    "addedAt": "2026-09-27T23:55:26.703Z"
+    "addedAt": "2026-10-02T05:40:23.015Z"
   },
   {
-    "id": "1790553326702-41-562c4b.mp3",
-    "name": "11_luz_na_estrada.mp3",
-    "bytes": 2098408,
-    "addedAt": "2026-09-27T23:55:29.618Z"
-  },
-  {
-    "id": "1790553329617-42-c0da91.mp3",
+    "id": "1790919623014-21-244300.mp3",
     "name": "11_minha_forca_vem_do_ceu.mp3",
     "bytes": 2094019,
-    "addedAt": "2026-09-27T23:55:32.440Z"
+    "addedAt": "2026-10-02T05:40:23.019Z"
   },
   {
-    "id": "1790553332440-43-78120e.mp3",
-    "name": "12_aleluia_no_sertao.mp3",
-    "bytes": 2150444,
-    "addedAt": "2026-09-27T23:55:35.188Z"
-  },
-  {
-    "id": "1790553335188-44-9498ca.mp3",
+    "id": "1790919623018-22-97a908.mp3",
     "name": "12_ate_o_fim_com_fe.mp3",
     "bytes": 2129441,
-    "addedAt": "2026-09-27T23:55:37.754Z"
+    "addedAt": "2026-10-02T05:40:23.022Z"
   },
   {
-    "id": "1790553337753-45-08e68d.mp3",
-    "name": "12_eu_vou_seguir.mp3",
-    "bytes": 2065180,
-    "addedAt": "2026-09-27T23:55:40.431Z"
-  },
-  {
-    "id": "1790553340431-46-0e6ac6.mp3",
+    "id": "1790919623021-23-240ea9.mp3",
     "name": "12_seresta_de_vitoria.mp3",
     "bytes": 2128187,
-    "addedAt": "2026-09-27T23:55:43.809Z"
+    "addedAt": "2026-10-02T05:40:23.120Z"
   },
   {
-    "id": "1790553343808-47-b85dfb.mp3",
-    "name": "ANA PAULA VALADÃO - Ã MELHOR SEREM DOIS DO QUE UM DIANTE DO TRONO.mp3",
-    "bytes": 4226055,
-    "addedAt": "2026-09-27T23:55:49.680Z"
-  },
-  {
-    "id": "1790553349679-48-861e5c.mp3",
+    "id": "1790919623120-24-ad73f0.mp3",
     "name": "Anderson Freire - A GlÃ³ria Ã Tua (Clipe Oficial MK Music).mp3",
     "bytes": 3934800,
-    "addedAt": "2026-09-27T23:55:55.851Z"
+    "addedAt": "2026-10-02T05:40:23.316Z"
   },
   {
-    "id": "1790553355850-49-264e54.mp3",
-    "name": "Arianne - Basta Que Me Toque MÃ£os Ensanguentadas de Jesus (Abertura) (Ao Vivo).mp3",
-    "bytes": 2669674,
-    "addedAt": "2026-09-27T23:56:00.418Z"
-  },
-  {
-    "id": "1790553360417-50-c44b1c.mp3",
+    "id": "1790919623315-25-a9ff7d.mp3",
     "name": "Arianne - Primeiro Amor (Quero Voltar) (Ao Vivo) ft. Priscilla Alcantara.mp3",
     "bytes": 4792789,
-    "addedAt": "2026-09-27T23:56:06.476Z"
+    "addedAt": "2026-10-02T05:40:23.640Z"
   },
   {
-    "id": "1790553366475-51-6af059.mp3",
-    "name": "Bruna Karla - Deus do ImpossÃ­vel (O Grande Eu Sou) - (Live Session).mp3",
-    "bytes": 2410400,
-    "addedAt": "2026-09-27T23:56:08.799Z"
-  },
-  {
-    "id": "1790553368796-52-869f1a.mp3",
+    "id": "1790919623639-26-98d729.mp3",
     "name": "Bruna Karla - FÃ© e a RazÃ£o (Clipe Oficial MK Music).mp3",
     "bytes": 2800349,
-    "addedAt": "2026-09-27T23:56:11.464Z"
+    "addedAt": "2026-10-02T05:40:23.815Z"
   },
   {
-    "id": "1790553371467-53-7c1984.mp3",
-    "name": "Bruna Karla - Meu Deus CuidarÃ¡ de Mim (Live Session).mp3",
-    "bytes": 2490024,
-    "addedAt": "2026-09-27T23:56:13.846Z"
-  },
-  {
-    "id": "1790553373845-54-deb75b.mp3",
+    "id": "1790919623814-27-85a868.mp3",
     "name": "CAMINHO NO DESERTO (WAY MAKER) Fernandinho e Paula - VersÃµes.mp3",
     "bytes": 3834824,
-    "addedAt": "2026-09-27T23:56:18.008Z"
+    "addedAt": "2026-10-02T05:40:23.916Z"
   },
   {
-    "id": "1790553378007-55-e3532a.mp3",
-    "name": "Cassiane - Lugar da Tua PresenÃ§a (Live Session).mp3",
-    "bytes": 4129150,
-    "addedAt": "2026-09-27T23:56:21.929Z"
-  },
-  {
-    "id": "1790553381929-56-cde35d.mp3",
+    "id": "1790919623915-28-a074e2.mp3",
     "name": "Chris DurÃ¡n ft. Bruna Karla - O Ãnico Que Quero (AO VIVO).mp3",
     "bytes": 3589686,
-    "addedAt": "2026-09-27T23:56:25.359Z"
+    "addedAt": "2026-10-02T05:40:24.016Z"
   },
   {
-    "id": "1790553385359-57-b769b4.mp3",
-    "name": "Cia. SALT - Quero Conhecer Jesus (Cover Alessandro Villas Boas).mp3",
-    "bytes": 4982413,
-    "addedAt": "2026-09-27T23:56:30.044Z"
-  },
-  {
-    "id": "1790553390044-58-6d108f.mp3",
+    "id": "1790919624016-29-ba7358.mp3",
     "name": "Damares - Deixa Senhor.mp3",
     "bytes": 4331017,
-    "addedAt": "2026-09-27T23:56:34.513Z"
+    "addedAt": "2026-10-02T05:40:24.417Z"
   },
   {
-    "id": "1790553394512-59-80102f.mp3",
-    "name": "Damares - Obra Prima (Sony Music Live).mp3",
-    "bytes": 4035413,
-    "addedAt": "2026-09-27T23:56:38.342Z"
-  },
-  {
-    "id": "1790578321614-0-acd4ea.mp3",
+    "id": "1790919624416-30-f50c12.mp3",
     "name": "Damares - Sou o Que Sou (Videoclipe).mp3",
     "bytes": 3886518,
-    "addedAt": "2026-09-28T06:52:03.191Z"
+    "addedAt": "2026-10-02T05:40:24.515Z"
   },
   {
-    "id": "1790578323190-1-850849.mp3",
-    "name": "Delino MarÃ§al - Deus Ã© Deus (Clipe Oficial MK Music em HD).mp3",
-    "bytes": 3436066,
-    "addedAt": "2026-09-28T06:52:03.858Z"
-  },
-  {
-    "id": "1790578323858-2-11de23.mp3",
+    "id": "1790919624515-31-22de76.mp3",
     "name": "Delino MarÃ§al - Guarda Meu CoraÃ§Ã£o (Clipe Oficial MK Music).mp3",
     "bytes": 3619767,
-    "addedAt": "2026-09-28T06:52:04.642Z"
+    "addedAt": "2026-10-02T05:40:24.522Z"
   },
   {
-    "id": "1790578324641-3-e503b6.mp3",
-    "name": "Deus Meu - Israel SubirÃ¡ ft. Marcos Almeida Som do Reino.mp3",
-    "bytes": 3954570,
-    "addedAt": "2026-09-28T06:52:05.389Z"
-  },
-  {
-    "id": "1790578325389-4-542020.mp3",
+    "id": "1790919624521-32-c9cf55.mp3",
     "name": "Elaine de Jesus - Vou Subir (Music Session).mp3",
     "bytes": 3280269,
-    "addedAt": "2026-09-28T06:52:06.042Z"
+    "addedAt": "2026-10-02T05:40:24.717Z"
   },
   {
-    "id": "1790578326041-5-a85c48.mp3",
-    "name": "Elaine Martins - Minha Alma Canta (Clipe Oficial MK Music).mp3",
-    "bytes": 3585281,
-    "addedAt": "2026-09-28T06:52:06.751Z"
-  },
-  {
-    "id": "1790578326750-6-237453.mp3",
+    "id": "1790919624716-33-0fdafd.mp3",
     "name": "Elaine Martins - O Cirineu (Clipe Oficial MK Music).mp3",
     "bytes": 3379951,
-    "addedAt": "2026-09-28T06:52:07.441Z"
+    "addedAt": "2026-10-02T05:40:25.014Z"
   },
   {
-    "id": "1790578327440-7-d432d2.mp3",
-    "name": "Elaine Martins - Teu Querer (Clipe Oficial MK Music).mp3",
-    "bytes": 3603456,
-    "addedAt": "2026-09-28T06:52:08.155Z"
-  },
-  {
-    "id": "1790578328152-8-930e17.mp3",
+    "id": "1790919624818-34-224869.mp3",
     "name": "Elaine Martins - Volte A Sonhar (Clipe Oficial MK Music).mp3",
     "bytes": 2842043,
-    "addedAt": "2026-09-28T06:52:08.740Z"
+    "addedAt": "2026-10-02T05:40:25.126Z"
   },
   {
-    "id": "1790578328739-9-cf4340.mp3",
-    "name": "Elaine Martins ft. Wilian Nascimento - Vasos Quebrados (Clipe Oficial MK Music).mp3",
-    "bytes": 3634207,
-    "addedAt": "2026-09-28T06:52:09.447Z"
-  },
-  {
-    "id": "1790578329447-10-ff9014.mp3",
+    "id": "1790919625125-35-007aeb.mp3",
     "name": "Emanuel (Clipe Oficial) Isaias Saad ft. Gabriel Guedes.mp3",
     "bytes": 4155178,
-    "addedAt": "2026-09-28T06:52:10.270Z"
+    "addedAt": "2026-10-02T05:40:25.315Z"
   },
   {
-    "id": "1790578330270-11-b088b9.mp3",
-    "name": "Estou Aqui (Clipe Oficial) Isaias Saad ft. Luma Elpidio.mp3",
-    "bytes": 3658018,
-    "addedAt": "2026-09-28T06:52:10.984Z"
-  },
-  {
-    "id": "1790578330983-12-b0f816.mp3",
+    "id": "1790919625314-36-3ba655.mp3",
     "name": "Eu Te Vejo Em Tudo - Casa Worship JullianySouza (Clipe Oficial).mp3",
     "bytes": 4159889,
-    "addedAt": "2026-09-28T06:52:11.839Z"
+    "addedAt": "2026-10-02T05:40:25.418Z"
   },
   {
-    "id": "1790578331839-13-535fab.mp3",
-    "name": "Felipe Rodrigues - Digno Ã o Senhor - MinistraÃ§Ã£o ao vivo.mp3",
-    "bytes": 4998436,
-    "addedAt": "2026-09-28T06:52:12.839Z"
-  },
-  {
-    "id": "1790578332839-14-e5268e.mp3",
+    "id": "1790919625417-37-e4151c.mp3",
     "name": "Felipe Rodrigues - Tudo Ã© Perda (Ao Vivo).mp3",
     "bytes": 6217804,
-    "addedAt": "2026-09-28T06:52:14.377Z"
+    "addedAt": "2026-10-02T05:40:25.817Z"
   },
   {
-    "id": "1790578334377-15-b2586b.mp3",
-    "name": "Fernanda Brum - A Carta (Clipe Oficial MK Music).mp3",
-    "bytes": 3882753,
-    "addedAt": "2026-09-28T06:52:15.209Z"
-  },
-  {
-    "id": "1790578335209-16-7d0151.mp3",
+    "id": "1790919625817-38-4e4981.mp3",
     "name": "Fernanda Brum - Eu Sigo (Live Session).mp3",
     "bytes": 2916954,
-    "addedAt": "2026-09-28T06:52:15.816Z"
+    "addedAt": "2026-10-02T05:40:25.822Z"
   },
   {
-    "id": "1790578335816-17-8f3afa.mp3",
-    "name": "Fernandinho - Deus NÃ£o EstÃ¡ Morto (Gods Not Dead) Clipe Oficial.mp3",
-    "bytes": 3220110,
-    "addedAt": "2026-09-28T06:52:16.451Z"
-  },
-  {
-    "id": "1790578336450-18-cf6651.mp3",
+    "id": "1790919625821-39-6bfacc.mp3",
     "name": "Fernandinho - Em Casa Chorem ft. Paula Santos.mp3",
     "bytes": 3993435,
-    "addedAt": "2026-09-28T06:52:17.141Z"
+    "addedAt": "2026-10-02T05:40:26.014Z"
   },
   {
-    "id": "1790578337140-19-73232c.mp3",
-    "name": "Fernandinho - Em Casa Eu Vou Subir A Montanha ft. Israel Salazar.mp3",
-    "bytes": 4789039,
-    "addedAt": "2026-09-28T06:52:18.164Z"
-  },
-  {
-    "id": "1790578338163-20-0ecee3.mp3",
+    "id": "1790919625919-40-0fbbde.mp3",
     "name": "Fernandinho - Em Casa GeraÃ§Ã£o de Samuel.mp3",
     "bytes": 4524135,
-    "addedAt": "2026-09-28T06:52:19.041Z"
+    "addedAt": "2026-10-02T05:40:26.317Z"
   },
   {
-    "id": "1790578339041-21-b096a9.mp3",
-    "name": "Fernandinho - Em Casa Mais Alto - Gabriel Guedes.mp3",
-    "bytes": 3422297,
-    "addedAt": "2026-09-28T06:52:19.813Z"
-  },
-  {
-    "id": "1790578339813-22-f18b56.mp3",
+    "id": "1790919626316-41-afe1c0.mp3",
     "name": "Fernandinho - NÃ£o HÃ¡ Outro ft. Gabriela Gomes (Clipe Oficial).mp3",
     "bytes": 3707238,
-    "addedAt": "2026-09-28T06:52:20.540Z"
+    "addedAt": "2026-10-02T05:40:26.417Z"
   },
   {
-    "id": "1790578340539-23-8d3722.mp3",
-    "name": "Fernandinho - TODAS AS COISAS - (CD Uma Nova HistÃ³ria).mp3",
-    "bytes": 4406258,
-    "addedAt": "2026-09-28T06:52:21.340Z"
-  },
-  {
-    "id": "1790578341340-24-697974.mp3",
+    "id": "1790919626414-42-a4e92e.mp3",
     "name": "Fernandinho - Totalmente Teu ft. Luma ElpÃ­dio (Clipe Oficial).mp3",
     "bytes": 4000957,
-    "addedAt": "2026-09-28T06:52:22.241Z"
+    "addedAt": "2026-10-02T05:40:26.517Z"
   },
   {
-    "id": "1790578342163-25-192dd2.mp3",
-    "name": "Fernandinho - Vento Impetuoso ft. AndrÃ© Aquino (Clipe Oficial).mp3",
-    "bytes": 4608149,
-    "addedAt": "2026-09-28T06:52:23.156Z"
-  },
-  {
-    "id": "1790578343155-26-a4af1c.mp3",
+    "id": "1790919626516-43-73da43.mp3",
     "name": "Fernandinho Caia Fogo (Ao Vivo no MineirÃ£o).mp3",
     "bytes": 4753261,
-    "addedAt": "2026-09-28T06:52:24.047Z"
+    "addedAt": "2026-10-02T05:40:26.914Z"
   },
   {
-    "id": "1790578344046-27-bcef49.mp3",
-    "name": "Fernandinho e Gabriela Rocha - Me Leva Em Casa.mp3",
-    "bytes": 4480881,
-    "addedAt": "2026-09-28T06:52:24.940Z"
-  },
-  {
-    "id": "1790578344939-28-4ea26d.mp3",
+    "id": "1790919626822-44-ea876f.mp3",
     "name": "Fernandinho GabrielaRochaOficial Ãnico (Ãlbum Ãnico AcÃºstico).mp3",
     "bytes": 6069541,
-    "addedAt": "2026-09-28T06:52:26.154Z"
+    "addedAt": "2026-10-02T05:40:27.017Z"
   },
   {
-    "id": "1790578346154-29-cec1e2.mp3",
-    "name": "Fernandinho Grandes Coisas (Ao Vivo no MineirÃ£o).mp3",
-    "bytes": 4107519,
-    "addedAt": "2026-09-28T06:52:26.990Z"
-  },
-  {
-    "id": "1790578346990-30-fa906e.mp3",
+    "id": "1790919627017-45-138269.mp3",
     "name": "FOI NA CRUZ Fernandinho e juninhoafram (COMUNHÃO - FERNANDINHO EM CASA 2).mp3",
     "bytes": 3630745,
-    "addedAt": "2026-09-28T06:52:27.758Z"
+    "addedAt": "2026-10-02T05:40:27.216Z"
   },
   {
-    "id": "1790578347758-31-da0f5f.mp3",
-    "name": "Gabriel Guedes - Eterno Presente (Ao Vivo).mp3",
-    "bytes": 2951137,
-    "addedAt": "2026-09-28T06:52:28.340Z"
-  },
-  {
-    "id": "1790578348339-32-cef32a.mp3",
+    "id": "1790919627215-46-0d32f7.mp3",
     "name": "Gabriel Guedes - Eu Creio (Ao Vivo) EP Eterno Presente.mp3",
     "bytes": 3936386,
-    "addedAt": "2026-09-28T06:52:29.380Z"
+    "addedAt": "2026-10-02T05:40:27.514Z"
   },
   {
-    "id": "1790578349379-33-b66552.mp3",
-    "name": "Gabriel Guedes - Noiva (Ao Vivo).mp3",
-    "bytes": 3465217,
-    "addedAt": "2026-09-28T06:52:30.041Z"
-  },
-  {
-    "id": "1790578350041-34-7fe759.mp3",
+    "id": "1790919627318-47-74da19.mp3",
     "name": "GABRIEL GUEDES SÃ PRA TE OUVIR.mp3",
     "bytes": 3280908,
-    "addedAt": "2026-09-28T06:52:30.808Z"
+    "addedAt": "2026-10-02T05:40:27.618Z"
   },
   {
-    "id": "1790578350808-35-1da391.mp3",
-    "name": "Gabriela Rocha - Atos 2.mp3",
-    "bytes": 3803768,
-    "addedAt": "2026-09-28T06:52:31.541Z"
-  },
-  {
-    "id": "1790578351540-36-e7fea4.mp3",
+    "id": "1790919627618-48-3a14e8.mp3",
     "name": "GABRIELA ROCHA - CÃU (CLIPE OFICIAL) EP CÃU.mp3",
     "bytes": 5004988,
-    "addedAt": "2026-09-28T06:52:32.541Z"
+    "addedAt": "2026-10-02T05:40:27.721Z"
   },
   {
-    "id": "1790578352540-37-a09009.mp3",
-    "name": "GABRIELA ROCHA - CORREREI (CLIPE OFICIAL).mp3",
-    "bytes": 4215666,
-    "addedAt": "2026-09-28T06:52:33.360Z"
-  },
-  {
-    "id": "1790578353359-38-34df62.mp3",
+    "id": "1790919627720-49-fcfbd9.mp3",
     "name": "Gabriela Rocha - Creio em Ti (Still Believe) (Ao Vivo) ft. Fernandinho.mp3",
     "bytes": 5178352,
-    "addedAt": "2026-09-28T06:52:34.404Z"
+    "addedAt": "2026-10-02T05:40:27.821Z"
   },
   {
-    "id": "1790578354404-39-677b51.mp3",
-    "name": "GABRIELA ROCHA - EU NAVEGAREI (CLIPE OFICIAL) EP CÃU.mp3",
-    "bytes": 5641652,
-    "addedAt": "2026-09-28T06:52:35.540Z"
-  },
-  {
-    "id": "1790578355539-40-61e785.mp3",
+    "id": "1790919627820-50-214977.mp3",
     "name": "Gabriela Rocha - Eu Sou Teu (Rooftops) (Ao Vivo).mp3",
     "bytes": 4941353,
-    "addedAt": "2026-09-28T06:52:36.541Z"
+    "addedAt": "2026-10-02T05:40:28.315Z"
   },
   {
-    "id": "1790578356540-41-ce64a3.mp3",
-    "name": "GABRIELA ROCHA - MEU CORAÃÃO Ã TEU PRA TE ADORAR (CLIPE OFICIAL) EP CÃU.mp3",
-    "bytes": 4146741,
-    "addedAt": "2026-09-28T06:52:37.352Z"
-  },
-  {
-    "id": "1790578357351-42-8b7c81.mp3",
+    "id": "1790919628315-51-85be3c.mp3",
     "name": "Gabriela Rocha - Meu Salvador (Ao Vivo).mp3",
     "bytes": 3196270,
-    "addedAt": "2026-09-28T06:52:38.040Z"
+    "addedAt": "2026-10-02T05:40:28.414Z"
   },
   {
-    "id": "1790578358039-43-bd17c7.mp3",
-    "name": "Gabriela Rocha - Nossa CanÃ§Ã£o (Ao Vivo) ft. Leonardo GonÃ§alves.mp3",
-    "bytes": 4163663,
-    "addedAt": "2026-09-28T06:52:38.824Z"
-  },
-  {
-    "id": "1790578358822-44-6563d9.mp3",
+    "id": "1790919628324-52-f6d88b.mp3",
     "name": "GABRIELA ROCHA - QUERO CONHECER JESUS QUE SE ABRAM OS CÃUS ft. LUKAS AGUSTINHO (HOME7).mp3",
     "bytes": 4784670,
-    "addedAt": "2026-09-28T06:52:39.825Z"
+    "addedAt": "2026-10-02T05:40:28.518Z"
   },
   {
-    "id": "1790578359826-45-5ca9fa.mp3",
-    "name": "GABRIELA ROCHA - SANTO ESPÃRITO VEM (CLIPE OFICIAL) EP CÃU.mp3",
-    "bytes": 5025065,
-    "addedAt": "2026-09-28T06:52:40.748Z"
-  },
-  {
-    "id": "1790578360747-46-d74486.mp3",
+    "id": "1790919628517-53-108c5c.mp3",
     "name": "Gabriela Rocha - Teu Santo Nome (Sony Music Live).mp3",
     "bytes": 2714157,
-    "addedAt": "2026-09-28T06:52:41.336Z"
+    "addedAt": "2026-10-02T05:40:28.617Z"
   },
   {
-    "id": "1790578361336-47-6a1f1b.mp3",
-    "name": "GersonRufinoOficial - DVD GRITO AFLITO COM 10 LOUVORES INÃDITOS.mp3",
-    "bytes": 26288337,
-    "addedAt": "2026-09-28T06:52:46.581Z"
-  },
-  {
-    "id": "1790578366580-48-6ac2ca.mp3",
+    "id": "1790919628617-54-3b7636.mp3",
     "name": "Gisele Nascimento - Janelas Da Alma (Clipe Oficial MK Music).mp3",
     "bytes": 3136081,
-    "addedAt": "2026-09-28T06:52:47.240Z"
+    "addedAt": "2026-10-02T05:40:28.714Z"
   },
   {
-    "id": "1790578367239-49-dbfa70.mp3",
-    "name": "Gisele Nascimento ft. Anderson Freire - Da Janela Pra Deus (Clipe Oficial MK Music).mp3",
-    "bytes": 3500046,
-    "addedAt": "2026-09-28T06:52:47.872Z"
-  },
-  {
-    "id": "1790578367871-50-7518e9.mp3",
+    "id": "1790919628627-55-41a411.mp3",
     "name": "Heloisa Rosa - Deus Meu (Ao Vivo).mp3",
     "bytes": 4205319,
-    "addedAt": "2026-09-28T06:52:48.740Z"
+    "addedAt": "2026-10-02T05:40:29.014Z"
   },
   {
-    "id": "1790578368740-51-61b3d7.mp3",
-    "name": "Heloisa Rosa e Fernandinho - Yeshua (Live Session).mp3",
-    "bytes": 4343885,
-    "addedAt": "2026-09-28T06:52:49.568Z"
-  },
-  {
-    "id": "1790578369568-52-ef1b0a.mp3",
+    "id": "1790919628926-56-d54781.mp3",
     "name": "Heloisa Rosa Mauro Henrique - Oh QuÃ£o Lindo esse Nome Ã Live Session.mp3",
     "bytes": 3794410,
-    "addedAt": "2026-09-28T06:52:50.650Z"
+    "addedAt": "2026-10-02T05:40:29.139Z"
   },
   {
-    "id": "1790578370650-53-30be23.mp3",
-    "name": "Isadora Pompeo - BÃªnÃ§Ã£os Que NÃ£o TÃªm Fim (Counting My Blessings).mp3",
-    "bytes": 2516998,
-    "addedAt": "2026-09-28T06:52:51.140Z"
-  },
-  {
-    "id": "1790578371140-54-7a30ae.mp3",
+    "id": "1790919629138-57-8161e0.mp3",
     "name": "Isadora Pompeo - BraÃ§os de Amor.mp3",
     "bytes": 4103137,
-    "addedAt": "2026-09-28T06:52:51.945Z"
+    "addedAt": "2026-10-02T05:40:29.219Z"
   },
   {
-    "id": "1790578371945-55-5c5a70.mp3",
-    "name": "Isadora Pompeo - Como Nunca Antes (Vertical Video).mp3",
-    "bytes": 3373382,
-    "addedAt": "2026-09-28T06:52:52.729Z"
-  },
-  {
-    "id": "1790578372729-56-354703.mp3",
+    "id": "1790919629218-58-bd1890.mp3",
     "name": "Isadora Pompeo - Deus Perfeito (Ao Vivo).mp3",
     "bytes": 2719481,
-    "addedAt": "2026-09-28T06:52:53.240Z"
+    "addedAt": "2026-10-02T05:40:29.414Z"
   },
   {
-    "id": "1790578373239-57-a2e3cd.mp3",
-    "name": "Isadora Pompeo - Eu Sei Que Vem (Ao Vivo).mp3",
-    "bytes": 3180282,
-    "addedAt": "2026-09-28T06:52:53.840Z"
-  },
-  {
-    "id": "1790578373840-58-071313.mp3",
+    "id": "1790919629320-59-26cf88.mp3",
     "name": "Isadora Pompeo - Grito Dos Apaixonados (Ao Vivo).mp3",
     "bytes": 3129194,
-    "addedAt": "2026-09-28T06:52:54.444Z"
-  },
-  {
-    "id": "1790578374444-59-793856.mp3",
-    "name": "Isadora Pompeo - O Nome de Jesus (Ao Vivo).mp3",
-    "bytes": 4087150,
-    "addedAt": "2026-09-28T06:52:55.340Z"
-  },
-  {
-    "id": "1790718994788-0-7e2e0b.mp3",
-    "name": "Gisele Nascimento - Janelas Da Alma (Clipe Oficial MK Music).mp3",
-    "bytes": 3136081,
-    "addedAt": "2026-09-29T21:56:35.674Z"
-  },
-  {
-    "id": "1790718995672-1-94c76c.mp3",
-    "name": "Gisele Nascimento ft. Anderson Freire - Da Janela Pra Deus (Clipe Oficial MK Music).mp3",
-    "bytes": 3500046,
-    "addedAt": "2026-09-29T21:56:35.971Z"
-  },
-  {
-    "id": "1790718995970-2-4a505a.mp3",
-    "name": "Heloisa Rosa - Deus Meu (Ao Vivo).mp3",
-    "bytes": 4205319,
-    "addedAt": "2026-09-29T21:56:36.564Z"
-  },
-  {
-    "id": "1790718996267-3-16b089.mp3",
-    "name": "Heloisa Rosa e Fernandinho - Yeshua (Live Session).mp3",
-    "bytes": 4343885,
-    "addedAt": "2026-09-29T21:56:36.769Z"
-  },
-  {
-    "id": "1790718996768-4-988586.mp3",
-    "name": "Heloisa Rosa Mauro Henrique - Oh QuÃ£o Lindo esse Nome Ã Live Session.mp3",
-    "bytes": 3794410,
-    "addedAt": "2026-09-29T21:56:36.966Z"
-  },
-  {
-    "id": "1790718996965-5-dfdd24.mp3",
-    "name": "Isadora Pompeo - BÃªnÃ§Ã£os Que NÃ£o TÃªm Fim (Counting My Blessings).mp3",
-    "bytes": 2516998,
-    "addedAt": "2026-09-29T21:56:37.464Z"
-  },
-  {
-    "id": "1790718997369-6-1d4fe0.mp3",
-    "name": "Isadora Pompeo - BraÃ§os de Amor.mp3",
-    "bytes": 4103137,
-    "addedAt": "2026-09-29T21:56:37.566Z"
-  },
-  {
-    "id": "1790718997566-7-72bd86.mp3",
-    "name": "Isadora Pompeo - Como Nunca Antes (Vertical Video).mp3",
-    "bytes": 3373382,
-    "addedAt": "2026-09-29T21:56:37.866Z"
-  },
-  {
-    "id": "1790718997764-8-3b654d.mp3",
-    "name": "Isadora Pompeo - Deus Perfeito (Ao Vivo).mp3",
-    "bytes": 2719481,
-    "addedAt": "2026-09-29T21:56:37.971Z"
-  },
-  {
-    "id": "1790718997970-9-ccf1e6.mp3",
-    "name": "Isadora Pompeo - Eu Sei Que Vem (Ao Vivo).mp3",
-    "bytes": 3180282,
-    "addedAt": "2026-09-29T21:56:38.269Z"
-  },
-  {
-    "id": "1790718998268-10-20abb8.mp3",
-    "name": "Isadora Pompeo - Grito Dos Apaixonados (Ao Vivo).mp3",
-    "bytes": 3129194,
-    "addedAt": "2026-09-29T21:56:38.369Z"
-  },
-  {
-    "id": "1790718998369-11-51d7ec.mp3",
-    "name": "Isadora Pompeo - O Nome de Jesus (Ao Vivo).mp3",
-    "bytes": 4087150,
-    "addedAt": "2026-09-29T21:56:38.865Z"
-  },
-  {
-    "id": "1790718998765-12-3272d8.mp3",
-    "name": "Isadora Pompeo - O Teu Amor (Ao Vivo).mp3",
-    "bytes": 3707221,
-    "addedAt": "2026-09-29T21:56:39.066Z"
-  },
-  {
-    "id": "1790718999065-13-b922d9.mp3",
-    "name": "Isadora Pompeo - Oi, Jesus (Ao Vivo).mp3",
-    "bytes": 3011944,
-    "addedAt": "2026-09-29T21:56:39.165Z"
-  },
-  {
-    "id": "1790718999164-14-9cc641.mp3",
-    "name": "Isadora Pompeo - Oi, Jesus (Live Session).mp3",
-    "bytes": 2876212,
-    "addedAt": "2026-09-29T21:56:39.467Z"
-  },
-  {
-    "id": "1790718999466-15-5c84f7.mp3",
-    "name": "Isadora Pompeo - Preciso Entender (Ao Vivo).mp3",
-    "bytes": 2952706,
-    "addedAt": "2026-09-29T21:56:39.568Z"
-  },
-  {
-    "id": "1790718999567-16-fd773d.mp3",
-    "name": "Isadora Pompeo - Toca em Mim de Novo (Ao Vivo).mp3",
-    "bytes": 3411628,
-    "addedAt": "2026-09-29T21:56:39.668Z"
-  },
-  {
-    "id": "1790718999668-17-1de9f5.mp3",
-    "name": "Isadora Pompeo e Marcela Tais - Hey, Pai (Ao Vivo).mp3",
-    "bytes": 3000047,
-    "addedAt": "2026-09-29T21:56:40.066Z"
-  },
-  {
-    "id": "1790719000065-18-3b13f9.mp3",
-    "name": "Isadora Pompeo e Rebeca Carvalho - Tua Alegria (Ao Vivo).mp3",
-    "bytes": 3009143,
-    "addedAt": "2026-09-29T21:56:40.168Z"
-  },
-  {
-    "id": "1790719000167-19-e01c0e.mp3",
-    "name": "JESUS Ã O CAMINHO - GABRIELA ROCHA - HOME2.mp3",
-    "bytes": 2555238,
-    "addedAt": "2026-09-29T21:56:40.267Z"
-  },
-  {
-    "id": "1790719000266-20-c13e46.mp3",
-    "name": "Julia Vitoria - De Dentro Pra Fora (Live Session).mp3",
-    "bytes": 3819136,
-    "addedAt": "2026-09-29T21:56:40.767Z"
-  },
-  {
-    "id": "1790719000767-21-64a34e.mp3",
-    "name": "Julia Vitoria e Aline Barros - Ele Vem A Cidade Santa (Ao Vivo).mp3",
-    "bytes": 4168675,
-    "addedAt": "2026-09-29T21:56:40.965Z"
-  },
-  {
-    "id": "1790719000964-22-ae851e.mp3",
-    "name": "Julia Vitoria feat. Gabriela Rocha - Tuas Ãguas (Live Session).mp3",
-    "bytes": 3800655,
-    "addedAt": "2026-09-29T21:56:41.065Z"
-  },
-  {
-    "id": "1790719001064-23-72527e.mp3",
-    "name": "Juliano Son Eu vou Construir (Livres Ao Vivo Em SÃ£o Paulo).mp3",
-    "bytes": 5930975,
-    "addedAt": "2026-09-29T21:56:41.473Z"
-  },
-  {
-    "id": "1790719001472-24-fb0204.mp3",
-    "name": "Karol Costa Pra Te Encontrar Clipe Oficial.mp3",
-    "bytes": 3083730,
-    "addedAt": "2026-09-29T21:56:41.570Z"
-  },
-  {
-    "id": "1790719001569-25-b89d5f.mp3",
-    "name": "Kemilly Santos - Fica Tranquilo - (Lyric VÃ­deo).mp3",
-    "bytes": 3799081,
-    "addedAt": "2026-09-29T21:56:41.767Z"
-  },
-  {
-    "id": "1790719001766-26-f82bee.mp3",
-    "name": "Kemilly Santos - Fica Tranquilo (Video Oficial).mp3",
-    "bytes": 3987474,
-    "addedAt": "2026-09-29T21:56:42.164Z"
-  },
-  {
-    "id": "1790719002068-27-8ddb5f.mp3",
-    "name": "Kemilly Santos - O Jogo Virou (Clipe Oficial).mp3",
-    "bytes": 2586886,
-    "addedAt": "2026-09-29T21:56:42.168Z"
-  },
-  {
-    "id": "1790719002168-28-ce446f.mp3",
-    "name": "Kemilly Santos, Damares - A Promessa (Clipe Oficial).mp3",
-    "bytes": 2975908,
-    "addedAt": "2026-09-29T21:56:42.369Z"
-  },
-  {
-    "id": "1790719002369-29-a5f821.mp3",
-    "name": "Kemuel - Algo Novo (Ao Vivo) ft. Lukas Agustinho.mp3",
-    "bytes": 6600550,
-    "addedAt": "2026-09-29T21:56:42.566Z"
-  },
-  {
-    "id": "1790719002566-30-5833bc.mp3",
-    "name": "Lauren Daigle - You Say (Official Music Video).mp3",
-    "bytes": 3250804,
-    "addedAt": "2026-09-29T21:56:42.868Z"
-  },
-  {
-    "id": "1790719002867-31-759d1d.mp3",
-    "name": "LÃ©a MendonÃ§a - Ferido na Batalha (Live Session).mp3",
-    "bytes": 3621331,
-    "addedAt": "2026-09-29T21:56:42.970Z"
-  },
-  {
-    "id": "1790719002970-32-40c173.mp3",
-    "name": "Leandro Borges - A CanÃ§Ã£o que Escrevi pra Deus (Ao vivo).mp3",
-    "bytes": 3204750,
-    "addedAt": "2026-09-29T21:56:43.069Z"
-  },
-  {
-    "id": "1790719003068-33-f84c04.mp3",
-    "name": "Leandro Borges - Cancela o Funeral (Ao Vivo).mp3",
-    "bytes": 3145177,
-    "addedAt": "2026-09-29T21:56:43.171Z"
-  },
-  {
-    "id": "1790719003170-34-9449c5.mp3",
-    "name": "Leandro Borges - Cuida (Ao Vivo).mp3",
-    "bytes": 2783735,
-    "addedAt": "2026-09-29T21:56:43.366Z"
-  },
-  {
-    "id": "1790719003365-35-4953e7.mp3",
-    "name": "Leandro Borges - Deixa eu AdorÃ¡-lo (Ao Vivo).mp3",
-    "bytes": 5345420,
-    "addedAt": "2026-09-29T21:56:43.672Z"
-  },
-  {
-    "id": "1790719003672-36-dbd803.mp3",
-    "name": "Leandro Borges - Deus e Eu (NÃ£o conte seus maiores sonhos a ninguÃ©m) (Ao Vivo).mp3",
-    "bytes": 2800353,
-    "addedAt": "2026-09-29T21:56:43.767Z"
-  },
-  {
-    "id": "1790719003766-37-6ed6ba.mp3",
-    "name": "Leandro Borges - Eu SÃ³ Vim Te Adorar (Ao Vivo).mp3",
-    "bytes": 4742306,
-    "addedAt": "2026-09-29T21:56:43.976Z"
-  },
-  {
-    "id": "1790719003975-38-7d2a91.mp3",
-    "name": "Leandro Borges - O Segredo Da Madrugada (Ao Vivo).mp3",
-    "bytes": 3781211,
-    "addedAt": "2026-09-29T21:56:44.268Z"
-  },
-  {
-    "id": "1790719004267-39-f2c07b.mp3",
-    "name": "Leandro Borges - O tempo Ã© meu amigo (VÃ­deo Letra).mp3",
-    "bytes": 2938604,
-    "addedAt": "2026-09-29T21:56:44.370Z"
-  },
-  {
-    "id": "1790719004370-40-e2fa3e.mp3",
-    "name": "Leandro Borges - Precisamos De Amigos (Ao Vivo).mp3",
-    "bytes": 3637327,
-    "addedAt": "2026-09-29T21:56:44.470Z"
-  },
-  {
-    "id": "1790719004469-41-1ec954.mp3",
-    "name": "Leandro Borges - Sempre Esteve Aqui - (Ao Vivo).mp3",
-    "bytes": 3422914,
-    "addedAt": "2026-09-29T21:56:44.666Z"
-  },
-  {
-    "id": "1790719004666-42-8f4211.mp3",
-    "name": "Leandro Borges e Clayton Queiroz - O SilÃªncio de Deus - (Ao Vivo).mp3",
-    "bytes": 4098146,
-    "addedAt": "2026-09-29T21:56:44.966Z"
-  },
-  {
-    "id": "1790719004965-43-60adea.mp3",
-    "name": "Leandro Borges e Dieggo Molina - Chegou o Tempo (Ao vivo).mp3",
-    "bytes": 3321674,
-    "addedAt": "2026-09-29T21:56:45.067Z"
-  },
-  {
-    "id": "1790719005067-44-2fe0b2.mp3",
-    "name": "Leandro Borges e JosuÃ© dos Anjos - Vem Me Visitar (Ao vivo).mp3",
-    "bytes": 2822946,
-    "addedAt": "2026-09-29T21:56:45.071Z"
-  },
-  {
-    "id": "1790719005071-45-89fc37.mp3",
-    "name": "Leandro Borges e Mara Lima - Enquanto VocÃª Adora (Ao Vivo).mp3",
-    "bytes": 3842975,
-    "addedAt": "2026-09-29T21:56:45.272Z"
-  },
-  {
-    "id": "1790719005272-46-a707a9.mp3",
-    "name": "Leandro Borges e Vanilda Bordieri - A Verdade (Clipe Oficial).mp3",
-    "bytes": 3941087,
-    "addedAt": "2026-09-29T21:56:45.668Z"
-  },
-  {
-    "id": "1790719005668-47-c4314c.mp3",
-    "name": "Leandro Borges e Vanilda Bordieri - CresÃ§a (Ao Vivo).mp3",
-    "bytes": 3958326,
-    "addedAt": "2026-09-29T21:56:45.768Z"
-  },
-  {
-    "id": "1790719005768-48-92c76b.mp3",
-    "name": "Leonardo GonÃ§alves - Deus sabe, Deus ouve, Deus vÃª.mp3",
-    "bytes": 3500985,
-    "addedAt": "2026-09-29T21:56:45.967Z"
-  },
-  {
-    "id": "1790719005966-49-55cbdb.mp3",
-    "name": "Leonardo GonÃ§alves - PrincÃ­pio e Fim (VÃ­deo Ao Vivo) ft. Daniela AraÃºjo.mp3",
-    "bytes": 4695623,
-    "addedAt": "2026-09-29T21:56:46.264Z"
-  },
-  {
-    "id": "1790719006066-50-7cbe35.mp3",
-    "name": "Leonardo GonÃ§alves - Verdade (VÃ­deo Ao Vivo) ft. Daniela AraÃºjo.mp3",
-    "bytes": 2911973,
-    "addedAt": "2026-09-29T21:56:46.467Z"
-  },
-  {
-    "id": "1790719006467-51-08b543.mp3",
-    "name": "Luma Elpidio - Tua GlÃ³ria (Video Oficial).mp3",
-    "bytes": 5050120,
-    "addedAt": "2026-09-29T21:56:46.576Z"
-  },
-  {
-    "id": "1790719006575-52-3e7caf.mp3",
-    "name": "MANANCIALPRECISO DE TI - GABRIELA ROCHA - HOME3.mp3",
-    "bytes": 2901940,
-    "addedAt": "2026-09-29T21:56:46.669Z"
-  },
-  {
-    "id": "1790719006669-53-9c02c6.mp3",
-    "name": "Maria MarÃ§al Deserto.mp3",
-    "bytes": 3201276,
-    "addedAt": "2026-09-29T21:56:46.773Z"
-  },
-  {
-    "id": "1790719006772-54-cb5637.mp3",
-    "name": "Marine Friesen - Alfa e Ãmega (AO VIVO).mp3",
-    "bytes": 5171433,
-    "addedAt": "2026-09-29T21:56:47.168Z"
-  },
-  {
-    "id": "1790719007167-55-82d46e.mp3",
-    "name": "Mauro Henrique Veja (Behold) ft. HeloÃ­sa Rosa.mp3",
-    "bytes": 4178369,
-    "addedAt": "2026-09-29T21:56:47.268Z"
-  },
-  {
-    "id": "1790719007268-56-b0b0e7.mp3",
-    "name": "Me Leva Pra Casa (Clipe Oficial) - Israel SubirÃ¡ Som do Reino.mp3",
-    "bytes": 5573636,
-    "addedAt": "2026-09-29T21:56:47.764Z"
-  },
-  {
-    "id": "1790719007668-57-c74583.mp3",
-    "name": "MinistÃ©rio Pedras Vivas - Pai nosso (Our father).mp3",
-    "bytes": 5095273,
-    "addedAt": "2026-09-29T21:56:47.865Z"
-  },
-  {
-    "id": "1790719007864-58-81767c.mp3",
-    "name": "MinistÃ©rio Sarando a Terra Ferida - Deus do Secreto (Clipe Oficial MK Music).mp3",
-    "bytes": 4689339,
-    "addedAt": "2026-09-29T21:56:48.066Z"
-  },
-  {
-    "id": "1790719008065-59-a985ce.mp3",
-    "name": "Nivea Soares - Reina Sobre Mim (AcÃºstico Ao Vivo).mp3",
-    "bytes": 3490303,
-    "addedAt": "2026-09-29T21:56:48.465Z"
-  },
-  {
-    "id": "1790719688318-0-9187fe.mp3",
-    "name": "Gisele Nascimento - Janelas Da Alma (Clipe Oficial MK Music).mp3",
-    "bytes": 3136081,
-    "addedAt": "2026-09-29T22:08:09.267Z"
-  },
-  {
-    "id": "1790719689266-1-fda1f2.mp3",
-    "name": "Gisele Nascimento ft. Anderson Freire - Da Janela Pra Deus (Clipe Oficial MK Music).mp3",
-    "bytes": 3500046,
-    "addedAt": "2026-09-29T22:08:09.467Z"
-  },
-  {
-    "id": "1790719689466-2-4b45d2.mp3",
-    "name": "Heloisa Rosa - Deus Meu (Ao Vivo).mp3",
-    "bytes": 4205319,
-    "addedAt": "2026-09-29T22:08:10.064Z"
-  },
-  {
-    "id": "1790719689968-3-8a6cde.mp3",
-    "name": "Heloisa Rosa e Fernandinho - Yeshua (Live Session).mp3",
-    "bytes": 4343885,
-    "addedAt": "2026-09-29T22:08:10.565Z"
-  },
-  {
-    "id": "1790719690564-4-f93564.mp3",
-    "name": "Heloisa Rosa Mauro Henrique - Oh QuÃ£o Lindo esse Nome Ã Live Session.mp3",
-    "bytes": 3794410,
-    "addedAt": "2026-09-29T22:08:10.669Z"
-  },
-  {
-    "id": "1790719690668-5-60cd96.mp3",
-    "name": "Isadora Pompeo - BÃªnÃ§Ã£os Que NÃ£o TÃªm Fim (Counting My Blessings).mp3",
-    "bytes": 2516998,
-    "addedAt": "2026-09-29T22:08:10.769Z"
-  },
-  {
-    "id": "1790719690768-6-8daa49.mp3",
-    "name": "Isadora Pompeo - BraÃ§os de Amor.mp3",
-    "bytes": 4103137,
-    "addedAt": "2026-09-29T22:08:10.966Z"
-  },
-  {
-    "id": "1790719690966-7-da8f7b.mp3",
-    "name": "Isadora Pompeo - Como Nunca Antes (Vertical Video).mp3",
-    "bytes": 3373382,
-    "addedAt": "2026-09-29T22:08:11.370Z"
-  },
-  {
-    "id": "1790719691369-8-f19f2e.mp3",
-    "name": "Isadora Pompeo - Deus Perfeito (Ao Vivo).mp3",
-    "bytes": 2719481,
-    "addedAt": "2026-09-29T22:08:11.469Z"
-  },
-  {
-    "id": "1790719691469-9-ae0594.mp3",
-    "name": "Isadora Pompeo - Eu Sei Que Vem (Ao Vivo).mp3",
-    "bytes": 3180282,
-    "addedAt": "2026-09-29T22:08:11.668Z"
-  },
-  {
-    "id": "1790719691667-10-00b03f.mp3",
-    "name": "Isadora Pompeo - Grito Dos Apaixonados (Ao Vivo).mp3",
-    "bytes": 3129194,
-    "addedAt": "2026-09-29T22:08:11.769Z"
-  },
-  {
-    "id": "1790719691768-11-798947.mp3",
-    "name": "Isadora Pompeo - O Nome de Jesus (Ao Vivo).mp3",
-    "bytes": 4087150,
-    "addedAt": "2026-09-29T22:08:12.168Z"
-  },
-  {
-    "id": "1790719692167-12-f67c99.mp3",
-    "name": "Isadora Pompeo - O Teu Amor (Ao Vivo).mp3",
-    "bytes": 3707221,
-    "addedAt": "2026-09-29T22:08:12.269Z"
-  },
-  {
-    "id": "1790719692269-13-7af424.mp3",
-    "name": "Isadora Pompeo - Oi, Jesus (Ao Vivo).mp3",
-    "bytes": 3011944,
-    "addedAt": "2026-09-29T22:08:12.395Z"
-  },
-  {
-    "id": "1790719692393-14-0ab61f.mp3",
-    "name": "Isadora Pompeo - Oi, Jesus (Live Session).mp3",
-    "bytes": 2876212,
-    "addedAt": "2026-09-29T22:08:12.564Z"
-  },
-  {
-    "id": "1790719692477-15-11f3fd.mp3",
-    "name": "Isadora Pompeo - Preciso Entender (Ao Vivo).mp3",
-    "bytes": 2952706,
-    "addedAt": "2026-09-29T22:08:12.867Z"
-  },
-  {
-    "id": "1790719692866-16-3b9a81.mp3",
-    "name": "Isadora Pompeo - Toca em Mim de Novo (Ao Vivo).mp3",
-    "bytes": 3411628,
-    "addedAt": "2026-09-29T22:08:12.970Z"
-  },
-  {
-    "id": "1790719692969-17-b0dd2d.mp3",
-    "name": "Isadora Pompeo e Marcela Tais - Hey, Pai (Ao Vivo).mp3",
-    "bytes": 3000047,
-    "addedAt": "2026-09-29T22:08:13.066Z"
-  },
-  {
-    "id": "1790719693066-18-6ced2f.mp3",
-    "name": "Isadora Pompeo e Rebeca Carvalho - Tua Alegria (Ao Vivo).mp3",
-    "bytes": 3009143,
-    "addedAt": "2026-09-29T22:08:13.465Z"
-  },
-  {
-    "id": "1790719693465-19-3c8d2a.mp3",
-    "name": "JESUS Ã O CAMINHO - GABRIELA ROCHA - HOME2.mp3",
-    "bytes": 2555238,
-    "addedAt": "2026-09-29T22:08:13.606Z"
-  },
-  {
-    "id": "1790719693604-20-5f6ea7.mp3",
-    "name": "Julia Vitoria - De Dentro Pra Fora (Live Session).mp3",
-    "bytes": 3819136,
-    "addedAt": "2026-09-29T22:08:13.696Z"
-  },
-  {
-    "id": "1790719693694-21-054776.mp3",
-    "name": "Julia Vitoria e Aline Barros - Ele Vem A Cidade Santa (Ao Vivo).mp3",
-    "bytes": 4168675,
-    "addedAt": "2026-09-29T22:08:13.875Z"
-  },
-  {
-    "id": "1790719693872-22-558b7a.mp3",
-    "name": "Julia Vitoria feat. Gabriela Rocha - Tuas Ãguas (Live Session).mp3",
-    "bytes": 3800655,
-    "addedAt": "2026-09-29T22:08:14.183Z"
-  },
-  {
-    "id": "1790719694180-23-8bbe0f.mp3",
-    "name": "Juliano Son Eu vou Construir (Livres Ao Vivo Em SÃ£o Paulo).mp3",
-    "bytes": 5930975,
-    "addedAt": "2026-09-29T22:08:14.418Z"
-  },
-  {
-    "id": "1790719694417-24-5e1b80.mp3",
-    "name": "Karol Costa Pra Te Encontrar Clipe Oficial.mp3",
-    "bytes": 3083730,
-    "addedAt": "2026-09-29T22:08:14.566Z"
-  },
-  {
-    "id": "1790719694520-25-a3a16f.mp3",
-    "name": "Kemilly Santos - Fica Tranquilo - (Lyric VÃ­deo).mp3",
-    "bytes": 3799081,
-    "addedAt": "2026-09-29T22:08:14.867Z"
-  },
-  {
-    "id": "1790719694867-26-817cbf.mp3",
-    "name": "Kemilly Santos - Fica Tranquilo (Video Oficial).mp3",
-    "bytes": 3987474,
-    "addedAt": "2026-09-29T22:08:14.967Z"
-  },
-  {
-    "id": "1790719694966-27-7f5517.mp3",
-    "name": "Kemilly Santos - O Jogo Virou (Clipe Oficial).mp3",
-    "bytes": 2586886,
-    "addedAt": "2026-09-29T22:08:15.066Z"
-  },
-  {
-    "id": "1790719695066-28-62ccc0.mp3",
-    "name": "Kemilly Santos, Damares - A Promessa (Clipe Oficial).mp3",
-    "bytes": 2975908,
-    "addedAt": "2026-09-29T22:08:15.071Z"
-  },
-  {
-    "id": "1790719695071-29-780705.mp3",
-    "name": "Kemuel - Algo Novo (Ao Vivo) ft. Lukas Agustinho.mp3",
-    "bytes": 6600550,
-    "addedAt": "2026-09-29T22:08:15.471Z"
-  },
-  {
-    "id": "1790719695470-30-6d0fc0.mp3",
-    "name": "Lauren Daigle - You Say (Official Music Video).mp3",
-    "bytes": 3250804,
-    "addedAt": "2026-09-29T22:08:15.664Z"
-  },
-  {
-    "id": "1790719695571-31-104daf.mp3",
-    "name": "LÃ©a MendonÃ§a - Ferido na Batalha (Live Session).mp3",
-    "bytes": 3621331,
-    "addedAt": "2026-09-29T22:08:15.769Z"
-  },
-  {
-    "id": "1790719695767-32-f02425.mp3",
-    "name": "Leandro Borges - A CanÃ§Ã£o que Escrevi pra Deus (Ao vivo).mp3",
-    "bytes": 3204750,
-    "addedAt": "2026-09-29T22:08:16.069Z"
-  },
-  {
-    "id": "1790719696069-33-d5a634.mp3",
-    "name": "Leandro Borges - Cancela o Funeral (Ao Vivo).mp3",
-    "bytes": 3145177,
-    "addedAt": "2026-09-29T22:08:16.170Z"
-  },
-  {
-    "id": "1790719696170-34-3145ac.mp3",
-    "name": "Leandro Borges - Cuida (Ao Vivo).mp3",
-    "bytes": 2783735,
-    "addedAt": "2026-09-29T22:08:16.269Z"
-  },
-  {
-    "id": "1790719696268-35-29ffad.mp3",
-    "name": "Leandro Borges - Deixa eu AdorÃ¡-lo (Ao Vivo).mp3",
-    "bytes": 5345420,
-    "addedAt": "2026-09-29T22:08:16.767Z"
-  },
-  {
-    "id": "1790719696766-36-1c0f26.mp3",
-    "name": "Leandro Borges - Deus e Eu (NÃ£o conte seus maiores sonhos a ninguÃ©m) (Ao Vivo).mp3",
-    "bytes": 2800353,
-    "addedAt": "2026-09-29T22:08:16.864Z"
-  },
-  {
-    "id": "1790719696770-37-bf9494.mp3",
-    "name": "Leandro Borges - Eu SÃ³ Vim Te Adorar (Ao Vivo).mp3",
-    "bytes": 4742306,
-    "addedAt": "2026-09-29T22:08:16.968Z"
-  },
-  {
-    "id": "1790719696967-38-edb413.mp3",
-    "name": "Leandro Borges - O Segredo Da Madrugada (Ao Vivo).mp3",
-    "bytes": 3781211,
-    "addedAt": "2026-09-29T22:08:17.069Z"
-  },
-  {
-    "id": "1790719697069-39-bb5c69.mp3",
-    "name": "Leandro Borges - O tempo Ã© meu amigo (VÃ­deo Letra).mp3",
-    "bytes": 2938604,
-    "addedAt": "2026-09-29T22:08:17.264Z"
-  },
-  {
-    "id": "1790719697176-40-4b1a9e.mp3",
-    "name": "Leandro Borges - Precisamos De Amigos (Ao Vivo).mp3",
-    "bytes": 3637327,
-    "addedAt": "2026-09-29T22:08:17.466Z"
-  },
-  {
-    "id": "1790719697466-41-011509.mp3",
-    "name": "Leandro Borges - Sempre Esteve Aqui - (Ao Vivo).mp3",
-    "bytes": 3422914,
-    "addedAt": "2026-09-29T22:08:17.570Z"
-  },
-  {
-    "id": "1790719697569-42-08e4ec.mp3",
-    "name": "Leandro Borges e Clayton Queiroz - O SilÃªncio de Deus - (Ao Vivo).mp3",
-    "bytes": 4098146,
-    "addedAt": "2026-09-29T22:08:17.767Z"
-  },
-  {
-    "id": "1790719697767-43-52244c.mp3",
-    "name": "Leandro Borges e Dieggo Molina - Chegou o Tempo (Ao vivo).mp3",
-    "bytes": 3321674,
-    "addedAt": "2026-09-29T22:08:17.867Z"
-  },
-  {
-    "id": "1790719697867-44-9f8425.mp3",
-    "name": "Leandro Borges e JosuÃ© dos Anjos - Vem Me Visitar (Ao vivo).mp3",
-    "bytes": 2822946,
-    "addedAt": "2026-09-29T22:08:18.167Z"
-  },
-  {
-    "id": "1790719698166-45-3a26ce.mp3",
-    "name": "Leandro Borges e Mara Lima - Enquanto VocÃª Adora (Ao Vivo).mp3",
-    "bytes": 3842975,
-    "addedAt": "2026-09-29T22:08:18.365Z"
-  },
-  {
-    "id": "1790719698364-46-78fa34.mp3",
-    "name": "Leandro Borges e Vanilda Bordieri - A Verdade (Clipe Oficial).mp3",
-    "bytes": 3941087,
-    "addedAt": "2026-09-29T22:08:18.465Z"
-  },
-  {
-    "id": "1790719698465-47-0e8d04.mp3",
-    "name": "Leandro Borges e Vanilda Bordieri - CresÃ§a (Ao Vivo).mp3",
-    "bytes": 3958326,
-    "addedAt": "2026-09-29T22:08:18.571Z"
-  },
-  {
-    "id": "1790719698570-48-90dc6d.mp3",
-    "name": "Leonardo GonÃ§alves - Deus sabe, Deus ouve, Deus vÃª.mp3",
-    "bytes": 3500985,
-    "addedAt": "2026-09-29T22:08:19.068Z"
-  },
-  {
-    "id": "1790719699067-49-27c3ce.mp3",
-    "name": "Leonardo GonÃ§alves - PrincÃ­pio e Fim (VÃ­deo Ao Vivo) ft. Daniela AraÃºjo.mp3",
-    "bytes": 4695623,
-    "addedAt": "2026-09-29T22:08:19.178Z"
-  },
-  {
-    "id": "1790719699177-50-bdfa88.mp3",
-    "name": "Leonardo GonÃ§alves - Verdade (VÃ­deo Ao Vivo) ft. Daniela AraÃºjo.mp3",
-    "bytes": 2911973,
-    "addedAt": "2026-09-29T22:08:19.271Z"
-  },
-  {
-    "id": "1790719699269-51-6b69ef.mp3",
-    "name": "Luma Elpidio - Tua GlÃ³ria (Video Oficial).mp3",
-    "bytes": 5050120,
-    "addedAt": "2026-09-29T22:08:19.466Z"
-  },
-  {
-    "id": "1790719699466-52-97d21d.mp3",
-    "name": "MANANCIALPRECISO DE TI - GABRIELA ROCHA - HOME3.mp3",
-    "bytes": 2901940,
-    "addedAt": "2026-09-29T22:08:19.768Z"
-  },
-  {
-    "id": "1790719699768-53-4e6043.mp3",
-    "name": "Maria MarÃ§al Deserto.mp3",
-    "bytes": 3201276,
-    "addedAt": "2026-09-29T22:08:19.868Z"
-  },
-  {
-    "id": "1790719699868-54-4097a9.mp3",
-    "name": "Marine Friesen - Alfa e Ãmega (AO VIVO).mp3",
-    "bytes": 5171433,
-    "addedAt": "2026-09-29T22:08:20.168Z"
-  },
-  {
-    "id": "1790719700167-55-6341a4.mp3",
-    "name": "Mauro Henrique Veja (Behold) ft. HeloÃ­sa Rosa.mp3",
-    "bytes": 4178369,
-    "addedAt": "2026-09-29T22:08:20.369Z"
-  },
-  {
-    "id": "1790719700368-56-8e0c5b.mp3",
-    "name": "Me Leva Pra Casa (Clipe Oficial) - Israel SubirÃ¡ Som do Reino.mp3",
-    "bytes": 5573636,
-    "addedAt": "2026-09-29T22:08:20.767Z"
-  },
-  {
-    "id": "1790719700767-57-7aa901.mp3",
-    "name": "MinistÃ©rio Pedras Vivas - Pai nosso (Our father).mp3",
-    "bytes": 5095273,
-    "addedAt": "2026-09-29T22:08:20.964Z"
-  },
-  {
-    "id": "1790719700870-58-ccd1ad.mp3",
-    "name": "MinistÃ©rio Sarando a Terra Ferida - Deus do Secreto (Clipe Oficial MK Music).mp3",
-    "bytes": 4689339,
-    "addedAt": "2026-09-29T22:08:21.166Z"
-  },
-  {
-    "id": "1790719701165-59-a81a50.mp3",
-    "name": "Nivea Soares - Reina Sobre Mim (AcÃºstico Ao Vivo).mp3",
-    "bytes": 3490303,
-    "addedAt": "2026-09-29T22:08:21.566Z"
+    "addedAt": "2026-10-02T05:40:29.719Z"
   }
 ]
